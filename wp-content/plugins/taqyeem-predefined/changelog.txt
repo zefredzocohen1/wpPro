@@ -1,0 +1,14 @@
+*** Taqyeem - Pre-defined Criteria Add-on Changelog ***
+-------------------------------------------------------------------------
+
+Version 1.0.1 - 15-05-2015
+- Fixed: PHP warnings messages.
+
+Files Updated
+- taqyeem-predefined.php
+
+
+------------------------------------------------
+
+Version 1.0.0
+- First release

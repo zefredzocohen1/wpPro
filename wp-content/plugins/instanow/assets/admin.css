@@ -1,0 +1,246 @@
+i.tie-insta-shortcodes-icon {
+	background-image: url('images/tie-shortcodes.png');
+}
+.tie-insta-block{
+    padding: 25px;
+    position: relative;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+.tie-insta-block strong{
+    line-height: 1.6;
+    font-size: 120%;
+    display: block;
+    padding-bottom: 10px;
+    text-align: center;
+    border-bottom: 2px solid #f39c12;
+}
+.tie-insta-block span.dashicons{
+    width: 80px;
+    height: 80px;
+    font-size: 80px;
+    text-align: center;
+    display: block;
+    margin: -10px auto 7px;
+    color: #f39c12;
+}
+.tie-insta-block.tie-insta-rate strong{
+    border-color: #e74c3c;
+}
+.tie-insta-block.tie-insta-rate span.dashicons{
+    color: #e74c3c;
+}
+.tie-insta-block a{
+    text-decoration: none !important;
+}
+#toplevel_page_instanow.menu-top .dashicons-before:before{
+    content:' ';
+    background-image: url('images/tie-instagramy.png');
+    background-size: 18px 18px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+body.toplevel_page_instanow #setting-error-tgmpa{
+    display: none;
+}
+body.toplevel_page_instanow h1{
+    padding-top: 25px;
+    padding-bottom: 35px;
+    font-weight: bold;
+    font-size: 250%
+}
+body.toplevel_page_instanow h1 small{
+    font-size: 14px;
+    font-weight: normal;
+}
+.mce-container.mce-panel.mce-floatpanel.mce-window.mce-in{
+    top:35px !important;
+}
+.mce-window .mce-container-body.mce-container-body.mce-abs-layout{
+    max-height: 500px !important;
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+}
+.mce-container.mce-form.mce-first.mce-last.mce-abs-layout-item{
+    max-height: 500px !important;
+}
+div.mce-panel.mce-window{
+    max-height: 550px !important;
+}
+
+.tieinsta-content .links-table th{
+    vertical-align: middle;
+}
+.js.toplevel_page_instanow .postbox .hndle{
+    cursor: auto;
+}
+.tieinsta-content .links-table td input[type=text],
+.tieinsta-content .links-table td input[type=password],
+.tieinsta-content .links-table td textarea{
+    width: 100%;
+}
+.tieinsta-content .links-table th {
+    min-width: 150px;
+}
+a.tieinsta-get-api-key{
+    margin: 5px 0 10px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 14px;
+    margin: 0;
+    background-color: #125688;
+    padding: 10px 15px;
+    cursor: pointer;
+    border: 0 none;
+    color: #FFF;
+    -webkit-appearance: none;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    white-space: nowrap;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+a.tieinsta-get-api-key.tieinsta-get-api-key-gray{
+    background-color: #888;
+}
+a.tieinsta-get-api-key:hover,
+a.tieinsta-get-api-key:focus,
+a.tieinsta-get-api-key:active{
+    color: #fff;
+    background-color: #333;
+    outline: none;
+}
+
+.tieinsta-get-api-key span{
+    float: left;
+    display: inline-block;
+    width: 20px;
+    height:20px;
+    background-image: url('images/tie-instagramy.png');
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-right: 10px;
+}
+.tieinsta-content select{
+    width: 200px;
+}
+.tieinsta-content #css{
+    background-image: url('images/code-bg.png');
+    color:#877ac6;
+}
+.tieinsta-widget-title{
+    background: #fafafa;
+    margin: 10px 0;
+    text-align:center;
+    border: 1px solid #e5e5e5;
+    padding: 10px 0;
+    cursor: pointer;
+}
+.tieinsta-widget-content{
+    margin-bottom: 2em;
+    border-bottom: 1px solid #e5e5e5;
+    display: none;
+    position: relative;
+}
+.widget.ui-draggable.open .tieinsta-widget-content{
+    display: block;
+}
+
+.tieinsta-widget-content p:first-child{
+    margin: 0;
+}
+.tieinsta-account-info-layout{
+    font-size: 13px;
+    line-height: 1.5;
+    margin: 1em 0;
+}
+.tieinsta-account-info-layout-label{
+    float: left;
+    min-width: 100px;
+}
+.tieinsta-account-info-layout div label{
+    display: block;
+    margin-bottom: 4px;
+}
+.tieinsta-account-info-layout-options{
+    float: left;
+}
+
+.tieinsta-account-info-layout div label a{
+    position: relative;
+}
+.tieinsta-account-info-layout div label a:hover .tieinsta-tooltip{
+    display: block
+}
+.tieinsta-tooltip{
+    background: #333;
+    background: rgba(0,0,0,.8);
+    border-radius: 5px;
+    bottom: 26px;
+    color: #fff;
+    content: " ";
+    left: 20%;
+    padding: 5px;
+    position: absolute;
+    z-index: 98;
+    width: 220px;
+    display: none;
+}
+.tieinsta-account-info-layout div label a:hover .tieinsta-tooltip:before{
+    border: solid;
+    border-color: #333 transparent;
+    border-width: 6px 6px 0 6px;
+    bottom: 20px;
+    content: "";
+    left: 10%;
+    position: absolute;
+    z-index: 99;
+    bottom: -6px;
+}
+.tieinsta-tooltip img{
+    max-width: 100%;
+    height: auto;
+}
+
+#poststuff .tie-insta-authorize-block th{
+    text-align: center;
+}
+
+#poststuff .tie-insta-authorize-block th span{
+    font-size: 120px;
+    width: 100%;
+    height: 120px;
+}
+#poststuff .tie-insta-authorize-block th span{
+    display: none;
+}
+
+.tie-insta-not-authorized{
+    border-left:10px solid #e9594a;
+}
+
+#poststuff .tie-insta-authorize-block .tie-insta-not-authorized th span.dashicons-lock{
+    color: #e9594a;
+    display: block;
+}
+
+.tie-insta-authorized{
+    border-left:10px solid #2ecc71;
+}
+
+#poststuff .tie-insta-authorize-block .tie-insta-authorized th span.dashicons-unlock{
+    color: #2ecc71;
+    display: block;
+}
+
+#poststuff .tie-insta-authorize-block h3{
+    font-size: 140%
+}
+
+.wpb_bootstrap_modals i.tieinsta-vc-icon{
+    background-image: url('images/instanow-vc-icon.png');
+    background-size: 32px;
+}

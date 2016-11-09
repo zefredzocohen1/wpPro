@@ -1,0 +1,753 @@
+# Translation of Development (trunk) in Vietnamese
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-02-22 03:37:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Development (trunk)\n"
+
+#: class.akismet-cli.php:43
+msgid "Failed to connect to Akismet."
+msgstr ""
+
+#: class.akismet.php:455
+msgid "Comment not found."
+msgstr ""
+
+#: class.akismet-cli.php:84
+msgid "Processed %d comment."
+msgid_plural "Processed %d comments."
+msgstr[0] ""
+
+#: class.akismet-cli.php:85
+msgid "%d comment moved to Spam."
+msgid_plural "%d comments moved to Spam."
+msgstr[0] ""
+
+#: class.akismet-cli.php:88
+msgid "%d comment could not be checked."
+msgid_plural "%d comments could not be checked."
+msgstr[0] ""
+
+#: class.akismet-cli.php:36
+msgid "Comment #%d is spam."
+msgstr ""
+
+#: class.akismet-cli.php:39
+msgid "Comment #%d is not spam."
+msgstr ""
+
+#: class.akismet-cli.php:46
+msgid "Comment #%d could not be checked."
+msgstr ""
+
+#: views/config.php:30
+msgid "%s missed spam"
+msgid_plural "%s missed spam"
+msgstr[0] ""
+
+#: views/config.php:32
+msgid "%s false positive"
+msgid_plural "%s false positives"
+msgstr[0] ""
+
+#: views/start.php:66
+msgid "Already have your key? Enter it here."
+msgstr ""
+
+#: views/start.php:65
+msgid "Enter an API key"
+msgstr "Nhập mã API"
+
+#: views/start.php:61
+msgid "Sign up with a different email address"
+msgstr "Đăng ký với một địa chỉ email khác"
+
+#: views/start.php:58
+msgid "Sign up for a plan with a different email address"
+msgstr ""
+
+#: views/start.php:59
+msgid "Use this option to use Akismet independently of your Jetpack connection."
+msgstr ""
+
+#: views/start.php:52
+msgid "Use this account"
+msgstr ""
+
+#: views/start.php:42 views/start.php:76
+msgid "Akismet eliminates spam from your site. To set up Akismet, select one of the options below."
+msgstr ""
+
+#: views/start.php:15
+msgid "Register for Akismet"
+msgstr ""
+
+#: views/start.php:19 views/start.php:34
+msgid "Akismet eliminates spam from your site."
+msgstr ""
+
+#: views/start.php:4
+msgid "Akismet eliminates spam from your site. Register below to get started."
+msgstr ""
+
+#: views/notice.php:90
+msgid "Akismet is now activated. Happy blogging!"
+msgstr ""
+
+#: views/start.php:80
+msgid "Log in or sign up now."
+msgstr ""
+
+#: views/notice.php:81
+msgid "You don&#8217;t have an Akismet plan."
+msgstr ""
+
+#: views/notice.php:66
+msgid "Your Akismet subscription is suspended."
+msgstr ""
+
+#: views/notice.php:57
+msgid "We cannot process your payment. Please <a href=\"%s\" target=\"_blank\">update your payment details</a>."
+msgstr ""
+
+#: views/notice.php:56
+msgid "Please update your payment information."
+msgstr "Vui lòng cập nhật thông tin thanh toán."
+
+#: views/notice.php:61
+msgid "Your Akismet plan has been cancelled."
+msgstr ""
+
+#: views/notice.php:11
+msgid "<strong>Almost done</strong> - activate Akismet and say goodbye to spam"
+msgstr ""
+
+#: class.akismet-admin.php:893
+msgid "Akismet has saved you %d minute!"
+msgid_plural "Akismet has saved you %d minutes!"
+msgstr[0] ""
+
+#: class.akismet-admin.php:891
+msgid "Akismet has saved you %d hour!"
+msgid_plural "Akismet has saved you %d hours!"
+msgstr[0] ""
+
+#: class.akismet-admin.php:889
+msgid "Akismet has saved you %s day!"
+msgid_plural "Akismet has saved you %s days!"
+msgstr[0] ""
+
+#: class.akismet-admin.php:150 class.akismet-admin.php:188
+#: class.akismet-admin.php:201
+msgid "Akismet filters out spam, so you can focus on more important things."
+msgstr ""
+
+#: views/notice.php:98
+msgid "Your API key is no longer valid. Please enter a new key or contact support@akismet.com."
+msgstr ""
+
+#: views/notice.php:117
+msgid "To continue your service, <a href=\"%s\" target=\"_blank\">upgrade to an Enterprise subscription</a>, which covers an unlimited number of sites."
+msgstr "Để tiếp tục dịch vụ của bạn, <a href=\"%s\" target=\"_blank\"> hãy nâng cấp lên gói Doanh nghiệp</a> khi đó sẽ không giới hạn số trang web sử dụng."
+
+#: views/notice.php:110
+msgid "Your Pro subscription allows the use of Akismet on only one site. Please <a href=\"%s\" target=\"_blank\">purchase additional Pro subscriptions</a> or upgrade to an Enterprise subscription that allows the use of Akismet on unlimited sites."
+msgstr "Gói Pro chỉ cho phép bạn sử dụng Akismet trên một trang web của bạn. Vui lòng <a href=\"%s\" target=\"_blank\">mua thêm gói Pro</a> hoặc nâng cấp lên gói Doanh nghiệp để sử dụng Akismet không giới hạn."
+
+#: views/notice.php:85 views/notice.php:112 views/notice.php:119
+msgid "Please <a href=\"%s\" target=\"_blank\">contact our support team</a> with any questions."
+msgstr "Hãy <a href=\"%s\" target=\"_blank\"> liên hệ với nhóm hỗ trợ của chúng tôi </a> với bất kỳ câu hỏi nào bạn đang thắc mắc."
+
+#: views/notice.php:83
+msgid "In 2012, Akismet began using subscription plans for all accounts (even free ones). A plan has not been assigned to your account, and we&#8217;d appreciate it if you&#8217;d <a href=\"%s\" target=\"_blank\">sign into your account</a> and choose one."
+msgstr ""
+
+#: class.akismet-admin.php:568
+msgid "Akismet was unable to recheck this comment (response: %s)."
+msgstr ""
+
+#: class.akismet-admin.php:582
+msgid "%1$s changed the comment status to %2$s."
+msgstr ""
+
+#: class.akismet-admin.php:563
+msgid "Akismet was unable to check this comment (response: %s) but will automatically retry later."
+msgstr ""
+
+#: class.akismet-admin.php:549
+msgid "%s reported this comment as not spam."
+msgstr ""
+
+#: class.akismet-admin.php:552
+msgid "This comment was reported as not spam."
+msgstr "Bình luận này được đánh dấu không phải bình luận rác."
+
+#: class.akismet-admin.php:544
+msgid "This comment was reported as spam."
+msgstr "Bình luận này được báo cáo là bình luận rác."
+
+#: class.akismet-admin.php:541
+msgid "%s reported this comment as spam."
+msgstr ""
+
+#: class.akismet-admin.php:534
+msgid "Akismet cleared this comment."
+msgstr "Akismet xóa bình luận này."
+
+#: class.akismet-admin.php:537
+msgid "Comment was caught by wp_blacklist_check."
+msgstr ""
+
+#: class.akismet-admin.php:525
+msgid "Akismet re-checked and caught this comment as spam."
+msgstr ""
+
+#: class.akismet-admin.php:528
+msgid "Akismet caught this comment as spam."
+msgstr ""
+
+#: class.akismet-admin.php:531
+msgid "Akismet re-checked and cleared this comment."
+msgstr ""
+
+#: views/notice.php:102
+msgid "The API key you entered could not be verified."
+msgstr "Mã bạn vừa nhập không thể xác minh."
+
+#: views/notice.php:103
+msgid "The connection to akismet.com could not be established. Please refer to <a href=\"%s\" target=\"_blank\">our guide about firewalls</a> and check your server configuration."
+msgstr ""
+
+#: views/config.php:72
+msgid "SSL Status"
+msgstr "Tình trạng SSL"
+
+#: views/config.php:79 views/config.php:82
+msgid "Disabled."
+msgstr "Không kích hoạt."
+
+#: views/config.php:82
+msgid "Your Web server cannot make SSL requests; contact your Web host and ask them to add support for SSL requests."
+msgstr ""
+
+#: views/config.php:88
+msgid "Temporarily disabled."
+msgstr ""
+
+#: views/config.php:88
+msgid "Akismet encountered a problem with a previous SSL request and disabled it temporarily. It will begin using SSL for requests again shortly."
+msgstr ""
+
+#: views/config.php:91
+msgid "Enabled."
+msgstr "Kích hoạt."
+
+#: views/config.php:91
+msgid "All systems functional."
+msgstr ""
+
+#: views/config.php:123
+msgid "Spam in the <a href=\"%1$s\">spam folder</a> older than 1 day is deleted automatically."
+msgid_plural "Spam in the <a href=\"%1$s\">spam folder</a> older than %2$d days is deleted automatically."
+msgstr[0] ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://akismet.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam</strong>. It keeps your site protected even while you sleep. To get started: 1) Click the \"Activate\" link to the left of this description, 2) <a href=\"https://akismet.com/get/\">Sign up for an Akismet plan</a> to get an API key, and 3) Go to your Akismet configuration page, and save your API key."
+msgstr ""
+
+#: class.akismet-admin.php:791
+msgid "Please check your <a href=\"%s\">Akismet configuration</a> and contact your web host if problems persist."
+msgstr "Hãy kiểm tra <a href=\"%s\">Cấu hình Akismet</a> của bạn và liên hệ với nhà cung cấp host nếu vẫn không khắc phục được sự cố."
+
+#: views/notice.php:18
+msgid "Some comments have not yet been checked for spam by Akismet. They have been temporarily held for moderation and will automatically be rechecked later."
+msgstr ""
+
+#: views/notice.php:47
+msgid "Your web host or server administrator has disabled PHP&#8217;s <code>gethostbynamel</code> function.  <strong>Akismet cannot work correctly until this is fixed.</strong>  Please contact your web host or firewall administrator and give them <a href=\"%s\" target=\"_blank\">this information about Akismet&#8217;s system requirements</a>."
+msgstr ""
+
+#: views/start.php:79
+msgid "Activate Akismet"
+msgstr "Kích hoạt Akismet"
+
+#: views/start.php:87
+msgid "If you already know your API key."
+msgstr "Nếu bạn đã biết khóa API."
+
+#: views/start.php:82
+msgid "Get your API key"
+msgstr "Lấy khóa API."
+
+#: views/start.php:23
+msgid "Your subscription for %s is cancelled"
+msgstr "%s đã được hoãn"
+
+#: views/start.php:30
+msgid "Reactivate Akismet"
+msgstr "Kích hoạt lại Akismet"
+
+#: views/config.php:178
+msgid "Cancelled"
+msgstr "Đã hoãn"
+
+#: views/config.php:180
+msgid "Suspended"
+msgstr "Đã ngưng"
+
+#: views/config.php:182
+msgid "Missing"
+msgstr "Lỗi"
+
+#: views/config.php:184
+msgid "No Subscription Found"
+msgstr "Không tìm thấy đăng ký"
+
+#: views/config.php:186
+msgid "Active"
+msgstr "Kích hoạt"
+
+#: views/notice.php:76
+msgid "There is a problem with your API key."
+msgstr "Khóa của bạn có vấn đề"
+
+#: class.akismet-admin.php:214 views/config.php:110
+msgid "Strictness"
+msgstr "Nghiêm ngặt"
+
+#: class.akismet-admin.php:214
+msgid "Choose to either discard the worst spam automatically or to always put all spam in spam folder."
+msgstr "Chọn hoặc loại bỏ các thư rác nhất hoặc luôn luôn đặt các thư rác vào trong thư mục thư rác."
+
+#: views/config.php:114
+msgid "Silently discard the worst and most pervasive spam so I never see it."
+msgstr ""
+
+#: views/config.php:115
+msgid "Always put spam in the Spam folder for review."
+msgstr "Luôn đặt spam trong thư mục spam để xem xét"
+
+#: class.akismet-admin.php:213 views/config.php:101
+msgid "Comments"
+msgstr "Góp ý"
+
+#: views/notice.php:108
+msgid "You&#8217;re using your Akismet key on more sites than your Pro subscription allows."
+msgstr ""
+
+#: views/notice.php:115
+msgid "You&#8217;re using Akismet on far too many sites for your Pro subscription."
+msgstr "Bạn đang dùng tài khoản đăng ký pro Akismet trên quá nhiều website."
+
+#: views/notice.php:17
+msgid "Akismet has detected a problem."
+msgstr "Akismet gặp trục trặc."
+
+#: views/notice.php:24
+msgid "Akismet %s requires WordPress 3.0 or higher."
+msgstr "Akismet %s yêu cầu WordPress 3.0 hoặc cao hơn"
+
+#: views/notice.php:27
+msgid "Akismet Error Code: %s"
+msgstr "Mã lỗi Akismet: %s"
+
+#. translators: the placeholder is a clickable URL that leads to more
+#. information regarding an error code.
+#: views/notice.php:32
+msgid "For more information: %s"
+msgstr "Xem chi tiết: %s"
+
+#: views/notice.php:46
+msgid "Network functions are disabled."
+msgstr "Chức năng mạng bị vô hiệu."
+
+#: views/notice.php:51
+msgid "Akismet can&#8217;t connect to your site."
+msgstr "Chúng tôi không thể kết nối tới trang của bạn."
+
+#: views/notice.php:52
+msgid "Your firewall may be blocking Akismet. Please contact your host and refer to <a href=\"%s\" target=\"_blank\">our guide about firewalls</a>."
+msgstr ""
+
+#: views/notice.php:62
+msgid "Please visit your <a href=\"%s\" target=\"_blank\">Akismet account page</a> to reactivate your subscription."
+msgstr "Vào <a href=\"%s\" target=\"_blank\">Trang tài khoản Akismet</a> để kích hoạt lại đăng ký của bạn."
+
+#: views/notice.php:67 views/notice.php:77
+msgid "Please contact <a href=\"%s\" target=\"_blank\">Akismet support</a> for assistance."
+msgstr ""
+
+#: views/notice.php:72
+msgid "You can help us fight spam and upgrade your account by <a href=\"%s\" target=\"_blank\">contributing a token amount</a>."
+msgstr ""
+
+#: views/notice.php:94
+msgid "The key you entered is invalid. Please double-check it."
+msgstr "Khóa nhập vào không hợp lệ. Xin hãy kiểm tra lại."
+
+#: views/start.php:7 views/start.php:22 views/start.php:36 views/start.php:45
+msgid "Connected via Jetpack"
+msgstr "Đã kết nối thông qua Jetpack"
+
+#: views/start.php:86
+msgid "Manually enter an API key"
+msgstr "Nhập khóa API thủ công"
+
+#: views/start.php:72 views/start.php:93
+msgid "Use this key"
+msgstr "Dùng khóa này"
+
+#: views/start.php:37
+msgid "Your subscription for %s is suspended"
+msgstr "Đăng ký của bạn %s đã bị tạm ngưng"
+
+#: views/start.php:38
+msgid "No worries! Get in touch and we&#8217;ll sort this out."
+msgstr "Đừng lo lắng! Hãy liên lạc và chúng tôi sẽ giúp bạn giải quyết"
+
+#: views/start.php:39
+msgid "Contact Akismet support"
+msgstr "Liên hệ đội hỗ trợ Akismet"
+
+#: views/config.php:113 views/strict.php:3
+msgid "Akismet anti-spam strictness"
+msgstr "Akismet chống spam nghiêm ngặt"
+
+#: views/strict.php:8
+msgid "Strict: silently discard the worst and most pervasive spam."
+msgstr ""
+
+#: views/strict.php:14
+msgid "Safe: always put spam in the Spam folder for review."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the plugin/theme
+msgid "https://automattic.com/wordpress-plugins/"
+msgstr ""
+
+#: class.akismet-admin.php:70
+msgid "Comment History"
+msgstr "Lịch sử bình luận"
+
+#. #-#-#-#-#  tmp-akismet.pot (Akismet 3.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: class.akismet-admin.php:93 class.akismet-admin.php:95
+#: class.akismet-admin.php:848 views/config.php:3
+msgid "Akismet"
+msgstr "Akismet"
+
+#: class.akismet-admin.php:122
+msgid "Remove this URL"
+msgstr "Loại bỏ URL này"
+
+#: class.akismet-admin.php:123
+msgid "Removing..."
+msgstr "Đang xóa"
+
+#: class.akismet-admin.php:124
+msgid "URL removed"
+msgstr "URL đã được loại"
+
+#: class.akismet-admin.php:125
+msgid "(undo)"
+msgstr "(hoãn)"
+
+#: class.akismet-admin.php:126
+msgid "Re-adding..."
+msgstr "Đang thêm vào lại..."
+
+#: class.akismet-admin.php:147 class.akismet-admin.php:185
+#: class.akismet-admin.php:198
+msgid "Overview"
+msgstr "Tổng quan"
+
+#: class.akismet-admin.php:149 class.akismet-admin.php:160
+#: class.akismet-admin.php:171
+msgid "Akismet Setup"
+msgstr "Cài đặt Akismet"
+
+#: class.akismet-admin.php:151
+msgid "On this page, you are able to set up the Akismet plugin."
+msgstr ""
+
+#: class.akismet-admin.php:158
+msgid "New to Akismet"
+msgstr ""
+
+#: class.akismet-admin.php:161
+msgid "You need to enter an API key to activate the Akismet service on your site."
+msgstr "Bạn cần nhập khóa API để kích hoạt Akismet trên trang web của bạn."
+
+#: class.akismet-admin.php:162
+msgid "Sign up for an account on %s to get an API Key."
+msgstr "Đăng ký tài khoản trên %s để lấy mã API"
+
+#: class.akismet-admin.php:169
+msgid "Enter an API Key"
+msgstr "Nhập vào một khóa API"
+
+#: class.akismet-admin.php:172
+msgid "If you already have an API key"
+msgstr ""
+
+#: class.akismet-admin.php:174
+msgid "Copy and paste the API key into the text field."
+msgstr "Sao chép và dán mã API vào trường văn bản bên dưới."
+
+#: class.akismet-admin.php:175
+msgid "Click the Use this Key button."
+msgstr ""
+
+#: class.akismet-admin.php:187 views/stats.php:2
+msgid "Akismet Stats"
+msgstr "Thống kê Akismet"
+
+#: class.akismet-admin.php:189
+msgid "On this page, you are able to view stats on spam filtered on your site."
+msgstr ""
+
+#: class.akismet-admin.php:200 class.akismet-admin.php:211
+#: class.akismet-admin.php:223
+msgid "Akismet Configuration"
+msgstr "Cấu hình Akismet"
+
+#: class.akismet-admin.php:202
+msgid "On this page, you are able to enter/remove an API key, view account information and view spam stats."
+msgstr ""
+
+#: class.akismet-admin.php:86 class.akismet-admin.php:209
+#: class.akismet-admin.php:602 views/config.php:56 views/stats.php:2
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: class.akismet-admin.php:212 views/config.php:63
+msgid "API Key"
+msgstr "Khóa API"
+
+#: class.akismet-admin.php:212
+msgid "Enter/remove an API key."
+msgstr "Thêm/Gỡ bỏ khóa API"
+
+#: views/config.php:105
+msgid "Show the number of approved comments beside each comment author"
+msgstr "Hiển thị số người nhận xét được duyệt bên cạnh mỗi tác giả bình luận"
+
+#: class.akismet-admin.php:213
+msgid "Show the number of approved comments beside each comment author in the comments list page."
+msgstr "Hiển thị số người nhận xét được duyệt bên cạnh mỗi tác giả bình luận trong các trang danh sách bình luận."
+
+#: class.akismet-admin.php:221 views/config.php:161
+msgid "Account"
+msgstr "Tài khoản"
+
+#: class.akismet-admin.php:224 views/config.php:166
+msgid "Subscription Type"
+msgstr "Loại theo dõi"
+
+#: class.akismet-admin.php:224
+msgid "The Akismet subscription plan"
+msgstr ""
+
+#: class.akismet-admin.php:225 views/config.php:173
+msgid "Status"
+msgstr "Trạng thái"
+
+#: class.akismet-admin.php:225
+msgid "The subscription status - active, cancelled or suspended"
+msgstr ""
+
+#: class.akismet-admin.php:233
+msgid "For more information:"
+msgstr "Thông tin thêm:"
+
+#: class.akismet-admin.php:234
+msgid "Akismet FAQ"
+msgstr "Câu hỏi thường gặp trong Akismet"
+
+#: class.akismet-admin.php:235
+msgid "Akismet Support"
+msgstr "Hỗ trợ Akismet"
+
+#: class.akismet-admin.php:241
+msgid "Cheatin&#8217; uh?"
+msgstr "Ăn gian?"
+
+#: class.akismet-admin.php:302
+msgctxt "comments"
+msgid "Spam"
+msgstr "Spam"
+
+#: class.akismet-admin.php:304
+msgid "<a href=\"%1$s\">Akismet</a> has protected your site from <a href=\"%2$s\">%3$s spam comment</a>."
+msgid_plural "<a href=\"%1$s\">Akismet</a> has protected your site from <a href=\"%2$s\">%3$s spam comments</a>."
+msgstr[0] "<a href=\"%1$s\">Akismet</a> đã bảo vệ site của bạn từ<a href=\"%2$s\">%3$s các bình luận rác</a>."
+
+#: class.akismet-admin.php:314
+msgid "<a href=\"%1$s\">Akismet</a> has protected your site from %2$s spam comment already. "
+msgid_plural "<a href=\"%1$s\">Akismet</a> has protected your site from %2$s spam comments already. "
+msgstr[0] "<a href=\"%1$s\">Akismet</a> đã chặn %2$ spam. "
+
+#: class.akismet-admin.php:320
+msgid "<a href=\"%s\">Akismet</a> blocks spam from getting to your blog. "
+msgstr "<a href=\"%s\">Akismet</a> đã chặn những Spam từ blog của bạn."
+
+#: class.akismet-admin.php:326
+msgid "There&#8217;s <a href=\"%2$s\">%1$s comment</a> in your spam queue right now."
+msgid_plural "There are <a href=\"%2$s\">%1$s comments</a> in your spam queue right now."
+msgstr[0] ""
+
+#: class.akismet-admin.php:332
+msgid "There&#8217;s nothing in your <a href='%s'>spam queue</a> at the moment."
+msgstr "Hiện tại không có gì trong <a href='%s'>hàng chờ thư rác</a> của bạn."
+
+#: class.akismet-admin.php:352
+msgid "Check for Spam"
+msgstr "Tìm Spam"
+
+#: class.akismet-admin.php:456
+msgid "Awaiting spam check"
+msgstr "Đang chờ kiểm duyệt"
+
+#: class.akismet-admin.php:460
+msgid "Flagged as spam by Akismet"
+msgstr "Đánh dấu là spam bởi Akismet"
+
+#: class.akismet-admin.php:462
+msgid "Cleared by Akismet"
+msgstr "Đã xóa bởi"
+
+#: class.akismet-admin.php:466
+msgid "Flagged as spam by %s"
+msgstr "Đánh dấu là spam bởi %s"
+
+#: class.akismet-admin.php:468
+msgid "Un-spammed by %s"
+msgstr "Được bỏ đánh dấu là spam bởi %s"
+
+#: class.akismet-admin.php:480 class.akismet-admin.php:488
+msgid "View comment history"
+msgstr "Xem lịch sử các phản hồi"
+
+#: class.akismet-admin.php:480
+msgid "History"
+msgstr "Lịch sử"
+
+#: class.akismet-admin.php:496
+msgid "%s approved"
+msgid_plural "%s approved"
+msgstr[0] "%s được thông qua"
+
+#: class.akismet-admin.php:590
+msgid "%s ago"
+msgstr "%s trước"
+
+#: class.akismet-admin.php:886
+msgid "Cleaning up spam takes time."
+msgstr "Dọn dẹp rác cần có thời gian."
+
+#: class.akismet-widget.php:12
+msgid "Akismet Widget"
+msgstr "Bảng công cụ Akismet"
+
+#: class.akismet-widget.php:13
+msgid "Display the number of spam comments Akismet has caught"
+msgstr "Hiển thị số lượng bình luận rác Akismet đã phát hiện"
+
+#: class.akismet-widget.php:69 class.akismet-widget.php:90
+msgid "Spam Blocked"
+msgstr "Bình luận rác đã bị chặn"
+
+#: class.akismet-widget.php:74
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: class.akismet-widget.php:102
+msgid "<strong class=\"count\">%1$s spam</strong> blocked by <strong>Akismet</strong>"
+msgid_plural "<strong class=\"count\">%1$s spam</strong> blocked by <strong>Akismet</strong>"
+msgstr[0] "<strong class=\"count\">%1$s bình luận rác</strong> đã bị loại bỏ bởi <strong>Akismet</strong>"
+
+#: class.akismet-admin.php:576
+msgid "Comment status was changed to %s"
+msgstr "Trạng thái bình luận đã được thay đổi thành %s"
+
+#: class.akismet-admin.php:556
+msgid "Akismet caught this comment as spam during an automatic retry."
+msgstr "Akismet nhận định đây là bình luận rác trong quá trình tự động kiểm tra lại."
+
+#: class.akismet-admin.php:559
+msgid "Akismet cleared this comment during an automatic retry."
+msgstr "Akismet đã xác minh đây không phải là bình luận rác trong quá trình tự động kiểm tra lại."
+
+#: class.akismet.php:1142
+msgid "Akismet %s requires WordPress %s or higher."
+msgstr "Akismet %s yêu cầu phiên bản WordPress %s hoặc cao hơn."
+
+#: class.akismet.php:1142 views/notice.php:24
+msgid "Please <a href=\"%1$s\">upgrade WordPress</a> to a current version, or <a href=\"%2$s\">downgrade to version 2.4 of the Akismet plugin</a>."
+msgstr "Hãy <a href=\"%1$s\">nâng cấp Wordpress</a> tới phiên bản hiện tại, hoặc <a href=\"%2$s\">hạ cấp plugin Akismet xuống 2.4</a>."
+
+#: views/config.php:12
+msgid "Summaries"
+msgstr "Tổng quan"
+
+#: views/config.php:18
+msgid "Past six months"
+msgstr "6 tháng trước"
+
+#: views/config.php:20 views/config.php:25
+msgid "Spam blocked"
+msgid_plural "Spam blocked"
+msgstr[0] "Spam đã bị chặn"
+
+#: views/config.php:23
+msgid "All time"
+msgstr "Mọi lúc"
+
+#: views/config.php:28
+msgid "Accuracy"
+msgstr "Độ chính xác"
+
+#: views/config.php:105
+msgid "Show approved comments"
+msgstr "Hiển thị bình luận được chấp nhận"
+
+#: views/config.php:117
+msgid "Note:"
+msgstr "Ghi chú:"
+
+#: views/config.php:142
+msgid "Disconnect this account"
+msgstr "Ngắt kết nối tài khoản này"
+
+#: views/config.php:148
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+#: views/config.php:192
+msgid "Next Billing Date"
+msgstr "Ngày thanh toán tiếp theo"
+
+#: views/config.php:204
+msgid "Upgrade"
+msgstr "Nâng cấp"
+
+#: views/config.php:204
+msgid "Change"
+msgstr "Đổi"
+
+#: views/notice.php:8
+msgid "Activate your Akismet account"
+msgstr "Kích hoạt tài khoản Akismet"

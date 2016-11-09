@@ -1,0 +1,444 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Instagramy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-08 15:08+0200\n"
+"PO-Revision-Date: 2015-12-08 15:08+0200\n"
+"Last-Translator: Fouad Badawy <support@tielabs.com>\n"
+"Language-Team: Tielabs <info@tielabs.com>\n"
+"Language: en_EG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../instanow-admin.php:10 ../instanow-admin.php:11 ../instanow-admin.php:639
+msgid "Settings"
+msgstr ""
+
+#: ../instanow-admin.php:62
+msgid "Error:"
+msgstr ""
+
+#: ../instanow-admin.php:63
+msgid "Error Reason:"
+msgstr ""
+
+#: ../instanow-admin.php:64
+msgid "Error Description:"
+msgstr ""
+
+#: ../instanow-admin.php:70
+msgid "Settings saved."
+msgstr ""
+
+#: ../instanow-admin.php:87
+#, php-format
+msgid ""
+"Instagram Feed plugin for WordPress by <a href=\"%s\" target=\"_blank"
+"\">TieLabs</a>"
+msgstr ""
+
+#: ../instanow-admin.php:98
+msgid "Your account has successfully been authorized"
+msgstr ""
+
+#: ../instanow-admin.php:100
+msgid ""
+"Feeds not displaying? There might be a problem with your current "
+"Authorization. Use the button below to try re-authorizing with Instagram."
+msgstr ""
+
+#: ../instanow-admin.php:101
+msgid "Re-Authorize with Instagram"
+msgstr ""
+
+#: ../instanow-admin.php:106
+msgid "Account not yet Authorized"
+msgstr ""
+
+#: ../instanow-admin.php:108
+msgid ""
+"Use the button below to begin the Authorization process. You will be "
+"redirected to Instagram to sign in and authorize this plugin. Once you "
+"authorize the plugin, you will be redirected to this page."
+msgstr ""
+
+#: ../instanow-admin.php:109
+msgid "Authorize with Instagram"
+msgstr ""
+
+#: ../instanow-admin.php:124
+msgid "General Settings"
+msgstr ""
+
+#: ../instanow-admin.php:129
+msgid "Cache Time (hours) "
+msgstr ""
+
+#: ../instanow-admin.php:140
+msgid "Custom CSS"
+msgstr ""
+
+#: ../instanow-admin.php:155
+msgid "LightBox Settings"
+msgstr ""
+
+#: ../instanow-admin.php:160 ../instanow-admin.php:663 ../instanow.php:71
+msgid "Skin"
+msgstr ""
+
+#: ../instanow-admin.php:172
+msgid "Thumbnail Position"
+msgstr ""
+
+#: ../instanow-admin.php:175
+msgid "Vertical"
+msgstr ""
+
+#: ../instanow-admin.php:176
+msgid "Horizontal"
+msgstr ""
+
+#: ../instanow-admin.php:181
+msgid "Show Arrows"
+msgstr ""
+
+#: ../instanow-admin.php:195
+msgid "Save"
+msgstr ""
+
+#: ../instanow-admin.php:205
+msgid "Need help? The TieLabs team is here for you :)"
+msgstr ""
+
+#: ../instanow-admin.php:206
+#, php-format
+msgid ""
+"View the plugin <a href=\"%1$s\" target=\"_blank\">Documentation</a> or post "
+"a <a href=\"%2$s\" target=\"_blank\">support question</a>."
+msgstr ""
+
+#: ../instanow-admin.php:213
+msgid "Enjoying InstaNOW?"
+msgstr ""
+
+#: ../instanow-admin.php:214
+#, php-format
+msgid ""
+"If you like our product please leave us a <a href=\"%s\" target=\"_blank"
+"\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating, that will help us a lot "
+"on improving our items and the support as well … A huge thank you from "
+"TieLabs in advance!"
+msgstr ""
+
+#: ../instanow-admin.php:216
+msgid "- More Themes & plugins"
+msgstr ""
+
+#: ../instanow-admin.php:217
+#, php-format
+msgid ""
+"- Follow us on <a href=\"%1$s\" target=\"_blank\">Twitter</a> or <a href="
+"\"%2$s\" target=\"_blank\">Facebook</a>."
+msgstr ""
+
+#: ../instanow-admin.php:243 ../instanow-admin.php:653
+msgid "Instagram Feed"
+msgstr ""
+
+#: ../instanow-admin.php:299
+msgid "instagram"
+msgstr ""
+
+#: ../instanow-admin.php:350
+msgid "Widget Title"
+msgstr ""
+
+#: ../instanow-admin.php:354
+msgid "Widget Skin"
+msgstr ""
+
+#: ../instanow-admin.php:356 ../instanow-admin.php:666 ../instanow.php:72
+msgid "Default Skin"
+msgstr ""
+
+#: ../instanow-admin.php:357 ../instanow-admin.php:667 ../instanow.php:73
+msgid "Lite Skin"
+msgstr ""
+
+#: ../instanow-admin.php:358 ../instanow-admin.php:668 ../instanow.php:74
+msgid "Dark Skin"
+msgstr ""
+
+#: ../instanow-admin.php:363
+msgid "Show the Instagram Box only"
+msgstr ""
+
+#: ../instanow-admin.php:364
+msgid "Will avoid the theme widget design and hide the widget title ."
+msgstr ""
+
+#: ../instanow-admin.php:368 ../instanow-admin.php:676 ../instanow.php:75
+msgid "Show the Instagram logo bar"
+msgstr ""
+
+#: ../instanow-admin.php:372 ../instanow-admin.php:683 ../instanow.php:76
+msgid "Open links in a new window"
+msgstr ""
+
+#: ../instanow-admin.php:376 ../instanow-admin.php:690 ../instanow.php:77
+msgid "Nofollow"
+msgstr ""
+
+#: ../instanow-admin.php:380 ../instanow-admin.php:697 ../instanow.php:78
+msgid "Give us a credit"
+msgstr ""
+
+#: ../instanow-admin.php:385 ../instanow-admin.php:703 ../instanow.php:65
+msgid "Get media from"
+msgstr ""
+
+#: ../instanow-admin.php:387 ../instanow-admin.php:706 ../instanow.php:67
+msgid "User Account"
+msgstr ""
+
+#: ../instanow-admin.php:388 ../instanow-admin.php:707 ../instanow.php:69
+msgid "Hash Tag"
+msgstr ""
+
+#: ../instanow-admin.php:394 ../instanow-admin.php:714
+msgid "Instagram HashTag"
+msgstr ""
+
+#: ../instanow-admin.php:396 ../instanow-admin.php:716
+msgid "A valid tag name without a leading #. (eg. flatdesign, food)"
+msgstr ""
+
+#: ../instanow-admin.php:400 ../instanow-admin.php:727 ../instanow.php:70
+msgid "Show the Hash Tag name"
+msgstr ""
+
+#: ../instanow-admin.php:406 ../instanow-admin.php:737 ../instanow.php:66
+msgid "Instagram account Username"
+msgstr ""
+
+#: ../instanow-admin.php:411 ../instanow-admin.php:749 ../instanow.php:79
+msgid "Show the Account Info area"
+msgstr ""
+
+#: ../instanow-admin.php:414 ../instanow-admin.php:759 ../instanow.php:80
+msgid "Position"
+msgstr ""
+
+#: ../instanow-admin.php:416 ../instanow-admin.php:762 ../instanow.php:81
+msgid "Top of the widget"
+msgstr ""
+
+#: ../instanow-admin.php:417 ../instanow-admin.php:763 ../instanow.php:82
+msgid "End of the widget"
+msgstr ""
+
+#: ../instanow-admin.php:421 ../instanow-admin.php:491
+#: ../instanow-admin.php:774 ../instanow-admin.php:880 ../instanow.php:83
+msgid "Layout"
+msgstr ""
+
+#: ../instanow-admin.php:426 ../instanow-admin.php:777 ../instanow.php:84
+msgid "Layout 1"
+msgstr ""
+
+#: ../instanow-admin.php:432 ../instanow-admin.php:778 ../instanow.php:85
+msgid "Layout 2"
+msgstr ""
+
+#: ../instanow-admin.php:438 ../instanow-admin.php:779 ../instanow.php:86
+msgid "Layout 3"
+msgstr ""
+
+#: ../instanow-admin.php:447 ../instanow-admin.php:791 ../instanow.php:87
+msgid "Show the Full name"
+msgstr ""
+
+#: ../instanow-admin.php:451 ../instanow-admin.php:802 ../instanow.php:88
+msgid "Show the Website URL"
+msgstr ""
+
+#: ../instanow-admin.php:455 ../instanow-admin.php:813 ../instanow.php:89
+msgid "Show the bio"
+msgstr ""
+
+#: ../instanow-admin.php:459 ../instanow-admin.php:824 ../instanow.php:90
+msgid "Show the account stats"
+msgstr ""
+
+#: ../instanow-admin.php:462 ../instanow-admin.php:834 ../instanow.php:91
+msgid "Avatar shape"
+msgstr ""
+
+#: ../instanow-admin.php:464 ../instanow-admin.php:837 ../instanow.php:92
+msgid "Square"
+msgstr ""
+
+#: ../instanow-admin.php:465 ../instanow-admin.php:838 ../instanow.php:93
+msgid "Round"
+msgstr ""
+
+#: ../instanow-admin.php:466 ../instanow-admin.php:839 ../instanow.php:94
+msgid "Circle"
+msgstr ""
+
+#: ../instanow-admin.php:470 ../instanow-admin.php:850 ../instanow.php:95
+msgid "Avatar Width & Height"
+msgstr ""
+
+#: ../instanow-admin.php:471
+msgid "px"
+msgstr ""
+
+#: ../instanow-admin.php:476
+msgid "- Media Settings -"
+msgstr ""
+
+#: ../instanow-admin.php:479 ../instanow-admin.php:861 ../instanow.php:96
+msgid "Number of Media items"
+msgstr ""
+
+#: ../instanow-admin.php:483 ../instanow-admin.php:868 ../instanow.php:97
+msgid "Link to"
+msgstr ""
+
+#: ../instanow-admin.php:485 ../instanow-admin.php:871 ../instanow.php:98
+msgid "Media File"
+msgstr ""
+
+#: ../instanow-admin.php:486 ../instanow-admin.php:872 ../instanow.php:99
+msgid "Media page on Instagram"
+msgstr ""
+
+#: ../instanow-admin.php:487 ../instanow-admin.php:873 ../instanow.php:100
+msgid "None"
+msgstr ""
+
+#: ../instanow-admin.php:493 ../instanow-admin.php:883 ../instanow.php:101
+msgid "Grid"
+msgstr ""
+
+#: ../instanow-admin.php:494 ../instanow-admin.php:884 ../instanow.php:102
+msgid "Slider"
+msgstr ""
+
+#: ../instanow-admin.php:500 ../instanow-admin.php:891
+msgid "Number of Columns"
+msgstr ""
+
+#: ../instanow-admin.php:509 ../instanow-admin.php:928
+msgid "Flat Images (Without borders, margins and shadows)"
+msgstr ""
+
+#: ../instanow-admin.php:513 ../instanow-admin.php:915
+#: ../instanow-admin.php:916
+msgid "Enable Load More Button"
+msgstr ""
+
+#: ../instanow-admin.php:516 ../instanow-admin.php:938
+msgid "Number of items to load each time"
+msgstr ""
+
+#: ../instanow-admin.php:523 ../instanow-admin.php:949
+msgid "Slider Speed"
+msgstr ""
+
+#: ../instanow-admin.php:524
+msgid "ms"
+msgstr ""
+
+#: ../instanow-admin.php:527 ../instanow-admin.php:960
+msgid "Animation Effect"
+msgstr ""
+
+#: ../instanow-admin.php:540 ../instanow-admin.php:1001
+#: ../instanow-admin.php:1002
+msgid "Show Media comments and likes number"
+msgstr ""
+
+#: ../instanow-admin.php:640
+msgid "More plugins by TieLabs"
+msgstr ""
+
+#: ../instanow-admin.php:927
+msgid "Flat Images"
+msgstr ""
+
+#: ../instanow.php:64
+msgid "InstaNow Shortcodes"
+msgstr ""
+
+#: ../instanow.php:68
+msgid "Instagram HashTag (Without #)"
+msgstr ""
+
+#: ../instanow.php:103
+msgid "GRID - Number of Columns"
+msgstr ""
+
+#: ../instanow.php:104
+msgid "GRID - Flat Images (Without borders, margins and shadows)"
+msgstr ""
+
+#: ../instanow.php:105
+msgid "GRID - Enable Load More Button"
+msgstr ""
+
+#: ../instanow.php:106
+msgid "GRID - Number of items to load each time"
+msgstr ""
+
+#: ../instanow.php:107
+msgid "SLIDER - Speed (ms)"
+msgstr ""
+
+#: ../instanow.php:108
+msgid "SLIDER - Animation Effect"
+msgstr ""
+
+#: ../instanow.php:109
+msgid "SLIDER - Show Media comments and likes number"
+msgstr ""
+
+#: ../instanow.php:207
+msgid "Follow"
+msgstr ""
+
+#: ../instanow.php:283 ../instanow.php:357
+msgid "Error : Couldn't Get Data From Instegram"
+msgstr ""
+
+#: ../instanow.php:288 ../instanow.php:362
+msgid "Set an access token first"
+msgstr ""
+
+#: ../instanow.php:404
+msgid "Posts"
+msgstr ""
+
+#: ../instanow.php:408
+msgid "Followers"
+msgstr ""
+
+#: ../instanow.php:412
+msgid "Following"
+msgstr ""
+
+#: ../instanow.php:556
+msgid "Load More"
+msgstr ""
+
+#: ../instanow.php:628
+msgid "InstaNow - WordPress Plugin"
+msgstr ""

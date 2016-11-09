@@ -1,0 +1,1969 @@
+*** Sahifa Changelog ***
+-------------------------------------------------------------------------
+
+Version 5.6.2 - 15-10-2016
+- Added: NewsArticle Structure data.
+- Improved: Review Structure data.
+- Improved: Taqyeem plugin styles.
+- And other improvements and minor bug fixes.
+
+#Files Updated
+- style.css
+- rtl.css
+- single.php
+- header.php
+- page.php
+- framework/functions/theme-functions.php
+- framework/functions/arqam-lite.php
+
+
+-------------------------------------------------------------------------
+
+Version 5.6.1 - 13-10-2016
+- Updated: Facebook API 2.7.0.
+- Improved: PHP 7 Compatibility.
+- Fixed: Displaying the responsive Adsense bug.
+- Fixed: WPML switcher menu bug in the main nav.
+- Removed: Delicious counter.
+- And other improvements and minor bug fixes.
+
+#Files Updated
+- style.css
+- rtl.css
+- single.php
+- header.php
+- page.php
+- js/tie-scripts.js
+- framework/functions/theme-functions.php
+- framework/widgets/widget-feedburner.php
+- framework/functions/arqam-lite.php
+- framework/admin/style.css
+- framework/admin/js/tie.js
+- framework/admin/framework-admin.php
+- framework/admin/framework-builder.php
+- framework/admin/framework-options.php
+- framework/widgets/ (folder)
+
+
+-------------------------------------------------------------------------
+
+Version 5.6.0 - 29-07-2016
+- Fixed: Displaying the responsive Adsense bug.
+- And other improvements and minor bug fixes.
+
+#Files Updated
+- style.css
+- framework/functions/theme-functions.php
+
+
+-------------------------------------------------------------------------
+
+Version 5.5.9 - 23-07-2016
+- Improved: Open author social links in a new tab.
+- Improved: Below Header Ad on mobiles.
+- Improved: Responsive Adsense Ad.
+- Fixed: bug in the Timeline page template when using WPML.
+- And other improvements and minor bug fixes.
+
+#Files Updated
+- style.css
+- template-timeline.php
+- framework/functions/theme-functions.php
+
+
+-------------------------------------------------------------------------
+
+Version 5.5.8 - 06-07-2016
+- Updated: InstaNOW Plugin to version 2.1.1.
+- Fixed: Font Awesome missing icons bug in the blog dashboard
+- And other improvements and minor bug fixes.
+
+#Files Updated
+- style.css
+- framework/functions/theme-functions.php
+- framework/plugins/instanow.zip
+- fonts/fontawesome/font-awesome.min.css
+
+
+-------------------------------------------------------------------------
+
+Version 5.5.7 - 07-06-2016
+- Updated: InstaNOW Plugin to version 2.1.0.
+—- IMPORTANT: Due to the recent Instagram API changes, in order for the InstaNOW plugin to continue working after June 1st you must obtain a new Access Token. This is true even if you recently already obtained a new token. Apologies for any inconvenience.
+- Updated: Font Awesome Version 4.6.3.
+- Updated: TGM to version 2.6.1.
+- Updated: New Instagram icon.
+- Improved: Header top Ad on mobiles.
+- And other improvements and minor bug fixes.
+
+#Files Updated
+- style.css
+- framework/functions/theme-functions.php
+- framework/plugins/instanow.zip
+- fonts/fontawesome/ (folder)
+- framework/admin/js/icon-picker.js
+- framework/admin/inc/tgm/ (folder)
+
+
+-------------------------------------------------------------------------
+
+Version 5.5.6 - 10-05-2016
+- Improved : Facebook Counter.
+
+#Files Updated
+- style.css
+- framework/functions/arqam-lite.php
+
+
+-------------------------------------------------------------------------
+
+Version 5.5.5 - 18-04-2016
+- Fixed: Color Picker bug in the categories edit page.
+- And other improvements and minor bug fixes.
+
+#Files Updated
+- style.css
+- js/tabs.min.js
+- js/tie-scripts.js
+- framework/widgets/widget-weather.php
+- framework/functions/admin/framework-admin.php
+- framework/functions/theme-functions.php
+- framework/functions/translation.php
+- framework/functions/mega-menus.php
+- framework/parts/slider-home.php
+- framework/parts/post-head.php
+- framework/admin/style.css
+
+
+-------------------------------------------------------------------------
+
+Version 5.5.4 - 16-04-2016
+- Updated: The theme is now WordPress 4.5 ready.
+- Updated FitVids library.
+- Fixed: PHP notices in the update notifier module.
+- Fixed: Page search exclude option bug.
+- Fixed: Update notification bug with the child themes.
+- Fixed: Missing translation option for “Nothing Found” in the translation panel.
+- Fixed: Appearance of the post meta in the pages with the post cover.
+- Improved: Weather Widget.
+- And other improvements and minor bug fixes.
+
+#Files Updated
+- style.css
+- js/tabs.min.js
+- js/tie-scripts.js
+- framework/widgets/widget-weather.php
+- framework/functions/theme-functions.php
+- framework/functions/translation.php
+- framework/functions/mega-menus.php
+- framework/parts/slider-home.php
+- framework/parts/post-head.php
+- framework/admin/style.css
+
+
+-------------------------------------------------------------------------
+
+
+Version 5.5.3 - 28-01-2016
+- Fixed: PHP notices in the update notifier module.
+
+#Files Updated
+- style.css
+- framework/admin/inc/notifier/update-notifier.php
+
+
+-------------------------------------------------------------------------
+
+Version 5.5.2 - 27-01-2016
+- Updated: The theme is now WooCommerce 2.5 ready.
+- improved: Theme Updates notifier.
+- Fixed: Flat share styling issue.
+- Fixed: Breaking News set animation type bug.
+- Fixed: Some PHP notices.
+- Fixed: WooCommerce LightBox bug for single product image.
+- And other improvements and minor bug fixes.
+
+#Files Updated
+- style.css
+- js/tie-scripts.js
+- framework/functions/theme-functions.php
+- framework/parts/breaking-news.php
+- framework/admin/inc/notifier/update-notifier.php
+- framework/admin/framework-admin.php
+- Removed: woocommerce/content-product.php
+- Removed: woocommerce/content-product_cat.php
+
+
+-------------------------------------------------------------------------
+
+Version 5.5.1 - 21-12-2015
+- Improved: RTL direction of the reading indicator.
+- Updated: Font Awesome Version 4.5.0 ( 20 New Icons ).
+- Updated: Languages files.
+- Updated: InstaNOW Plugin (formerly Instagramy) version 2.0.
+- - NEW FEATURE: New Easier way to authorize your account with Instagram.
+- - NEW FEATURE: Load More feature for the Grid Layout.
+- - NEW FEATURE: Ability to show more than 20 Images.
+- - NEW FEATURE: Flat Images option.
+- - NEW FEATURE: Compatibility with the Visual Composer plugin.
+- And other improvements and minor bug fixes.
+
+#Files Updated
+- style.css
+- rtl.css
+- framework/functions/theme-functions.php
+- framework/admin/js/icon-picker.js
+- framework/admin/framework-panel.php
+- framework/admin/framework-admin.php
+- framework/admin/images/ (folder)
+- framework/admin/style.css
+- framework/parts/share.php
+- framework/plugins/ (folder)
+- fonts/fontawesome/ (folder)
+- languages (folder)
+
+
+-------------------------------------------------------------------------
+
+Version 5.5.0 - 21-11-2015
+- NEW FEATURE: New typography option for Breaking news label.
+- Updated: Languages files.
+- Improved: Facebook Counter.
+- Improved: feed.press Counter.
+- Improved: Posts Excerpt in the Grid Slider.
+- Improved: RTL elements styles.
+- Improved: Removed TGM notice for users without permissions to install/update plugins.
+- improved: Theme Updates notifier.
+- Improved: iLightBox library code.
+- Improved: One Click Demo data importer.
+- Added: New RTL Demo content XML file.
+- Fixed: Posts Excerpt shortcodes bug.
+- Fixed: Bug when adding an icon for menu items after adding them to the menu.
+- Fixed: Misspelled words.
+- And other improvements and minor bug fixes.
+
+#Files Updated
+- style.css
+- rtl.css
+- functions.php
+- js/ilightbox.packed.js
+- framework/functions/arqam-lite.php
+- framework/functions/common-scripts.php
+- framework/functions/theme-functions.php
+- framework/admin/style.css
+- framework/admin/framework-admin.php
+- framework/admin/framework-panel.php
+- framework/admin/js/icon-picker.js
+- framework/admin/framework-admin.php
+- framework/admin/inc/notifier/update-notifier.php
+- framework/admin/inc/importer/tie-importer.php
+- framework/widgets/widget-facebook.php
+- languages (folder)
+
+
+-------------------------------------------------------------------------
+
+Version 5.4.0 - 12-10-2015
+- NEW FEATURE: New typography option for titles in the grid slide.
+- Updated: Dribbble API 1.0 - Now you need to set a Client Access Token, check the Documentation for more information.
+- Updated: New OpenWeatherMap API - Now you need to set an API key in the weather widget settings.
+- Updated: Languages files.
+- Updated : Theme documentation.
+- Improved: Weather Widget.
+- Improved: bbPress elements styles.
+- Improved: RTL elements styles.
+- And other improvements and minor bug fixes.
+
+#Files Updated
+- style.css
+- rtl.css
+- css/bbpress.css
+- framework/functions/arqam-lite.php
+- framework/widgets/widget-weather.php
+- framework/functions/common-scripts.php
+- framework/admin/framework-panel.php
+- languages (folder)
+
+
+-------------------------------------------------------------------------
+
+Version 5.3.2 - 16-09-2015
+- Improved: Theme Accessibility.
+- Improved: Force the word with a lot of chars to fit the container.
+- Improved: Mega menu function to avoid conflict with some plugins.
+- Improved: OG Meta description for posts.
+- Updated: Instagramy plugin.
+- Updated: Taqyeem plugin.
+- Fixed: Posts Excerpt shortcodes bug.
+- Fixed: Video Blocks post link bug.
+- And other improvements and minor bug fixes.
+
+#Files Updated
+- style.css
+- header.php
+- framework/functions/theme-functions.php
+- framework/blocks/block-videos.php
+- framework/functions/mega-menus.php
+- framework/parts/featured.php
+- framework/plugins/ (folder)
+
+
+-------------------------------------------------------------------------
+
+Version 5.3.1 - 23-08-2015
+- Updated: The theme is now WordPress 4.3 ready.
+- Updated: The theme is now WooCommerce 2.4 ready.
+- Updated: Instagramy plugin.
+- Updated: Taqyeem plugin.
+- Improved: Storing custom post fields value in the DB.
+- Improved: Mega menu save custom fields.
+- Fixed: Menus bug after importing the demo site data.
+- Fixed: WPML scan theme text bug.
+- Fixed: Full width masonry bug on Firefox.
+- Fixed: Flat twitter share button bug on iPhone.
+- Fixed: Twitter share button bug with non latin characters.
+- Fixed: Share bug when the post title containing a special characters.
+- And other improvements and minor bug fixes.
+
+#Files Updated
+- style.css
+- functions.php
+- framework/admin/framework-builder.php
+- framework/admin/framework-metaboxes.php
+- framework/functions/theme-functions.php
+- framework/functions/translation.php
+- framework/functions/arqam-lite.php
+- framework/functions/mega-menus.php
+- framework/parts/share.php
+- framework/plugins/ (folder)
+- framework/widgets/ (folder)
+- woocommerce/content-product_cat.php
+- woocommerce/content-product.php
+
+
+-------------------------------------------------------------------------
+
+Version 5.3.0 - 08-08-2015
+- NEW FEATURE: Option to enable/disable Smooth Scroll.
+- NEW FEATURE: Shortcode support for custom above and below posts Ads.
+- NEW FEATURE: Visual style option for SoundCloud.
+- NEW FEATURE: Github Social counter.
+- NEW FEATURE: Logo Psd files added in the theme package.
+- Improved: Facebook Counter.
+- Improved: Spaces around posts with covers on mobiles.
+- Improved: RTL Styles of the Mobile menu.
+- Improved: Time Ago Format module and it’s translation.
+- Improved: Theme’s translations.
+- Improved: Views System with multiple post pages.
+- Updated: Languages files.
+- Updated: Font Awesome Version 4.4.0 - 66 New Icons.
+- Updated: TGM plugin Version 2.5.2.
+- Updated: FlexSlider Version 2.5.0.
+- Updated: Instagramy plugin.
+- - NEW FEATURE: Hashtag support.
+- - NEW FEATURE: Activate links of accounts and hashtags in the user bio section.
+- - NEW FEATURE: Activate links of accounts and hashtags in the post caption.
+- - Improved: Plugin Speed and performance by reducing the amount of data stored and fetched from the database by 90%.
+- Fixed: Share bug when the post title containing a special characters.
+- Fixed: Breaking News inactive tab bug.
+- Fixed: Getting Weather data bug for some locations.
+- Fixed: Misspelled words.
+- Removed: Forrst Social counter as Zurb shut down it’s API.
+- And other improvements and minor bug fixes.
+
+#Files Updated
+- style.css
+- rtl.css
+- header.php
+- single.php
+- page.php
+- template-authors
+- template-best-reviews
+- template-blog
+- template-login
+- template-masonry.php
+- template-media.php
+- template-restrict.php
+- template-sitemap.php
+- template-tags.php
+- template-timeline.php
+- wpml-config.xml
+- js/tie-scripts.js
+- fonts/fontawesome/ (folder)
+- languages (folder)
+- framework/plugins/ (folder)
+- framework/functions/arqam-lite.php
+- framework/functions/theme-functions.php
+- framework/functions/translation.php
+- framework/functions/common-scripts.php
+- framework/functions/tie-views.php
+- framework/parts/breaking-news.php
+- framework/parts/post-head.php
+- framework/parts/share.php
+- framework/admin/style.css
+- framework/admin/js/tie.js
+- framework/admin/js/icon-picker.js
+- framework/admin/framework-panel.php
+- framework/admin/framework-admin.php
+- framework/admin/framework-metaboxes.php
+- framework/admin/updates.php
+- framework/admin/inc/tgm/ (folder)
+- framework/widgets/widget-soundcloud.php
+- framework/widgets/widget-twitter.php
+- framework/widgets/widget-weather.php
+
+
+-------------------------------------------------------------------------
+
+Version 5.2.2 - 30-06-2015
+- Updated: Youtube API 3.0 - Now you need to get API Key ... check the Documentation for more information.
+- Updated: Theme’s Documentations.
+- Updated: Languages Files.
+
+#Files Updated
+- style.css
+- framework/functions/arqam-lite.php
+
+-------------------------------------------------------------------------
+
+Version 5.2.1 - 24-05-2015
+- Improved: Performance of the video block query.
+- Improved: Non Youtube and vimeo posts now linked to the post itself when the block’s Lightbox option is active.
+- Fixed: Check also close bug.
+- Fixed: Appearance of the sticky posts in the widgets.
+- And other improvements and minor bug fixes.
+
+#Files Updated
+- style.css
+- js/tie-scripts.js
+- framework/blocks/block-videos.php
+- framework/functions/inc/theme-functions.php
+
+-------------------------------------------------------------------------
+
+Version 5.2.0 - 21-05-2015
+- NEW FEATURE: Optional reading position indicator.
+- NEW FEATURE: Searchable icon picker for menus.
+- NEW FEATURE: Added Post date to the grid featured slider.
+- NEW FEATURE: Added Self Hosted videos support to the videos blocks.
+- Improved: Theme speed and performance.
+- Improved: One Click Demo data importer.
+- Updated: TGM plugin.
+- Updated: Taqyeem plugin.*
+- Updated: Taqyeem - Buttons Addon.*
+- Updated: Taqyeem - Predefined Criteria Addon.*
+- Updated: Languages files.
+- Fixed: Misspelled words .
+- Fixed: Several PHP notices.
+- Fixed: iPhone menu bug.
+- Fixed: Nested bbpress comments bug.
+- Fixed: Below Header Banner Area bug.
+- Fixed: Below Header Banner Area background bug in WooCommerce pages.
+- Fixed: RTL Self hosted videos player bug.
+- Fixed: RTL sliders pagination separator bug.
+- Fixed: Translation panel custom chars bug.
+- Fixed: Appearance of the top menu items in the mobile menu bug.
+- Fixed: Dropdown menu hover bug with Safari on iPad.
+- Fixed: List shortcodes bug in the HTML block and widget.
+- Fixed: Login widget bug for subdirectories installation.
+- Fixed: Disable WooCommerce lightbox bug.
+- Fixed: Mega menu item position bug in the RTL version.
+- Fixed: Appearance of categories and views icons for pages in the search results.
+- Fixed: Lazy load of the images in footer area bug.
+- And other improvements and minor bug fixes.
+
+* To Update the plugin :
+	1- Go to the “Installed Plugins” page and delete the old plugin version.
+	2- Re-install the plugin from Appearance > “Install Plugins” page.
+
+#Files Updated
+- style.css
+- rtl.css
+- 404.php
+- header.php
+- footer.php
+- comments.php
+- category.php
+- sidebar.php
+- template-timeline.php
+- template-tags.php
+- template-best-reviews.php
+- js/tie-scripts.js
+- fonts/fontawesome/font-awesome.min.css
+- languages (folder)
+- framework/blocks/ (folder)
+- framework/parts/ (folder)
+- framework/plugins/ (folder)
+- framework/admin/inc/importer/ (folder)
+- framework/admin/inc/tgm/ (folder)
+- framework/admin/updates.php
+- framework/admin/inc/style.css
+- framework/admin/custom-slider.php
+- framework/admin/framework-admin.php
+- framework/admin/framework-builder.php
+- framework/admin/framework-metaboxes.php
+- framework/admin/framework-category.php
+- framework/admin/framework-options.php
+- framework/admin/framework-panel.php
+- framework/admin/js/icon-picker.js
+- framework/functions/inc/mega-menus.php
+- framework/functions/inc/theme-functions.php
+- framework/functions/inc/translation.php
+- framework/functions/inc/common-scripts.php
+- framework/widgets/widget-tabbed.php
+- framework/widgets/widget-author.php
+- framework/widgets/widget-slider.php
+- framework/widgets/widget-tabbed.php
+
+- If your current version is 4+ Please replace whole folder. We changed too many files in v5.0.0
+
+
+-------------------------------------------------------------------------
+
+Version 5.1.0 - 26-02-2015
+- NEW FEATURE: Option to enable/disable the mobile menu.
+- NEW FEATURE: Option to enable/disable the Search bar in the mobile menu.
+- NEW FEATURE: Option to enable/disable the social icons in the mobile menu.
+- NEW FEATURE: Option to enable/disable the Top menu items in the mobile menu.
+- NEW FEATURE: Option to hide the the mobile menu items icons.
+- NEW FEATURE: Option to enable/disable share buttons for pages.
+- NEW FEATURE: Option to disable Arqam Lite.
+- NEW FEATURE: Icon for the home link in the mobile menu.
+- NEW FEATURE: Caption for the LightBox shortcode.
+- Improved: Caption position of the post head image.
+- Improved: Gallery images caption appearance.
+- Improved: Tables style.
+- Improved: Sub Lists styles in the post content area.
+- Improved: OG Data for the homepages.
+- Improved: SEo improvements.
+- Improved: Lists with multiple line style.
+- Improved: Sticky sidebar behaviour when scrolling up and down.
+- Fixed: Page builder bug when the WooCommerce plugin is deactivated.
+- Fixed: Gallery columns bug.
+- Fixed: RTL Related posts style bug in Full width posts.
+- Fixed: special characters bug when share the post on Facebook.
+- Fixed: JS bug in the Arqam Lite options page.
+- Fixed: StumbleUpon and LinkedIn share buttons bug.
+- Fixed: Buttons shortcode target option bug.
+- Fixed: All Known php notices.
+- Fixed: page builder bug when categories names containing a quotes.
+- Fixed: RTL Logo in the sticky Navigation menu position bug.
+- Fixed: Home Link always heightlighted bug when it added to the Main Nav as a page.
+- Fixed: Author hcard bug.
+- Fixed: Full width logo styling bug.
+- Fixed: Sticky sidebars bug with Adsense and other Ad services.
+- Fixed: Images lazy load bug with reCAPTCHA.
+- Fixed: Comments avatar size bug in the theme widgets.
+- Updated: BebasNeue font to fix the accented characters bug.
+- Updated: Font Awesome Version 4.3.0 ( 40 New Icons ).
+- Updated: Theia Sticky Sidebar Js file to latest version.
+- Updated: Theme Documentation - Page speed guide section added.
+- And other improvements and minor bug fixes.
+
+Files updated
+- style.css
+- rtl.css
+- header.php
+- single.php
+- page.php
+- sidebar.php
+- sidebar-shop.php
+- js/tie-scripts.js
+- fonts/ ( folder)
+- functions.php
+- framework/blocks.php
+- framework/functions/theme-functions.php
+- framework/functions/common-scripts.php
+- framework/functions/arqam-lite.php
+- framework/parts/share.php
+- framework/admin/framework-builder.php
+- framework/admin/framework-panel.php
+- framework/admin/style.css
+- framework/admin/framework-category.php
+- framework/admin/updates.php
+- framework/shortcodes/shortcodes.php
+
+- If your current version is 4+ Please replace whole folder. We changed too many files in v5.0.0
+
+
+-------------------------------------------------------------------------
+
+Version 5.0.2 - 10-02-2015
+- Improved: Videos dimensions before loading the main js file.
+- Improved: Content SlideShow styling before loading the main js file.
+- Improved: Scrolling Block styling before loading the main js file.
+- Fixed: Google Adsense responsive bug on some devices.
+- Fixed: Text Decoration styling option bug.
+- Fixed: Footer styling options bug.
+- Fixed: UberMwnu stick Menu option bug.
+- Fixed: Mega Menus Arrows in the mobile menu.
+- Fixed: Styling bug in the (Recent posts and check also) mega menu option.
+- Fixed: Installing required plugins bug with Sahifa Child themes.
+- And other improvements and minor bug fixes.
+
+Files updated
+- style.css
+- js/tie-scripts.js
+- framework/widgets/widget-video.php
+- framework/functions/mega-menus.php
+- framework/functions/common-scripts.php
+- Framework/functions/theme-functions.php
+
+- If your current version is 4+ Please replace whole folder. We changed too many files in v5.0.0
+
+
+-------------------------------------------------------------------------
+
+Version 5.0.1 - 08-02-2015
+- Fixed: The mobile menu Close Bug on mobiles.
+- Fixed: Tabs Shortcode bug.
+- Fixed: TGM_Bulk_Installer bug when trying to install the recommended plugins.
+- Fixed: The Full width images bug.
+- Fixed: Bug in the lightbox.
+- Fixed: Bug in the translation panel.
+- Fixed: Top share buttons text color.
+- Fixed: Breaking news custom background color.
+- And other improvements and minor bug fixes.
+
+Files updated
+- header.php
+- style.css
+- js/tie-scripts.js
+- framework/functions/translation.php
+- framework/functions/common-scripts.php
+- framework/functions/theme-functions.php
+- framework/admin/framework-admin.php
+- framework/admin/framework-builder.php
+- framework/admin/framework-panel.php
+- framework/shortcodes/ ( folder )
+
+- If your current version is 4+ Please replace whole folder. We changed too many files in v5.0.0
+
+
+-------------------------------------------------------------------------
+
+Version 5.0.0 - 06-02-2015
+- NEW FEATURE: New Mega menus module with 3 different layouts.
+- NEW FEATURE: Option to add icons for the main nav menu item.
+- NEW FEATURE: Full width layout.
+- NEW FEATURE: New boxed layout.
+- NEW FEATURE: Grid Featured Posts Slider.
+- NEW FEATURE: Lazy Load for images with option to enable/disable it.
+- NEW FEATURE: Views system.
+- NEW FEATURE: Out of canvas mobile menu.
+- NEW FEATURE: Live Search with option to enable/disable it.
+- NEW FEATURE: New WooCommerce block in the Page builder with 2 layouts.
+- NEW FEATURE: Removed the old review system and Integrate Taqyeem Plugin save 16$.
+- NEW FEATURE: Option to add a custom title for the review box .
+- NEW FEATURE: Review for custom post types.
+- NEW FEATURE: Taqyeem - Predefined Criteria Addon save 6$
+- NEW FEATURE: Integrated Taqyeem Buttons Addon save 5$.
+- NEW FEATURE: Fly check also box with option to set its position, number of posts and query type.
+- NEW FEATURE: Option to disable the Fly check also box for specific posts .
+- NEW FEATURE: Masonry Page Template.
+- NEW FEATURE: Media Page Template .
+- NEW FEATURE: Removed the old Social Counter module and Integrate Arqam Lite Social Counter Plugin.
+- NEW FEATURE: Google+ Page Followers.
+- NEW FEATURE: Delicious Followers.
+- NEW FEATURE: Forrst Followers.
+- NEW FEATURE: RSS Subscribers Number ( Feedpress.it / Manual ).
+- NEW FEATURE: Option for colored social counter icons.
+- NEW FEATURE: Option for colored border social counter icons.
+- NEW FEATURE: New animation effect social counter.
+- NEW FEATURE: Weather Widget.
+- NEW FEATURE: New Shortcode GUI.
+- NEW FEATURE: Set custom title for the about author box shortcode.
+- NEW FEATURE: New style for the Timeline page template.
+- NEW FEATURE: Timeline layout for archives.
+- NEW FEATURE: Masonry with sidebar layout for archives .
+- NEW FEATURE: Option to set custom layout for categories pages .
+- NEW FEATURE: Option to customize the layout of each category
+- NEW FEATURE: Option to set custom layout for tags pages .
+- NEW FEATURE: Option to set custom layout for Authors pages .
+- NEW FEATURE: Option to set custom layout for search results pages .
+- NEW FEATURE: Show the search bar in mobiles.
+- NEW FEATURE: New option to set the number of related posts in the full width pages.
+- NEW FEATURE: Option to show most viewed posts in the posts list widget.
+- NEW FEATURE: Option to show most viewed posts in the Tabbed widget.
+- NEW FEATURE: Icons for post meta info.
+- NEW FEATURE: Ad Space below the header.
+- NEW FEATURE: New Media uploader.
+- NEW FEATURE: Smooth Scroll effect.
+- NEW FEATURE: New modern dashboard styles.
+- NEW FEATURE: Typography option for Blockquotes.
+- NEW FEATURE: Ability to add multiple Categories tabs box.
+- NEW FEATURE: Ability to change the position of Categories tabs boxes.
+- NEW FEATURE: Ability to add more than twitter widget with different accounts.
+- NEW FEATURE: Option to show social icons in Gray without background.
+- NEW FEATURE: Soundcloud match post and theme color.
+- NEW FEATURE: Modern Flat share Buttons.
+- NEW FEATURE: Colored read more button.
+- NEW FEATURE: Allow zoom on mobiles.
+- NEW FEATURE: Custom slider multiple uploader.
+- NEW FEATURE: Option to set the background color of the main navigation and the inner border.
+- NEW FEATURE: Options to show the search and social icons in the header top area .
+- NEW FEATURE: Option to hide thumbnails in categories blocks.
+- NEW FEATURE: Added Lightbox library.
+- NEW FEATURE: Option to enable Lightbox automatically for all images in the post content area.
+- NEW FEATURE: Option to choose the lightbox skin ( 6 skins available ).
+- NEW FEATURE: Option to enable/disable thumbnails in lightbox.
+- NEW FEATURE: Option to show arrows in lightbox.
+- NEW FEATURE: Option to show the videos in the video block in lightbox.
+- NEW FEATURE: 404 Error page redesigned.
+- NEW FEATURE: Add class for all ads spaces to use it with adblock plugins.
+- NEW FEATURE: Icons for Buttons shortcode .
+- NEW FEATURE: Homepage boxes colors.
+- NEW FEATURE: New Responsive Version.
+- NEW FEATURE: New Menu CSS animation.
+- NEW FEATURE: Remove Query Strings From Static Resources to improve the load speed.
+- NEW FEATURE: Added 10 new background patterns.
+- NEW FEATURE: New design for tabs, toggle shortcodes.
+- NEW FEATURE: Added cart icon to main nav with option to disable it.
+- NEW FEATURE: Added a Timeline Widget.
+- NEW FEATURE: Author cover image.
+- NEW FEATURE: Cover posts layout.
+- NEW FEATURE: Parallax effect.
+- NEW FEATURE: New position for the related posts module.
+- NEW FEATURE: New today's date design.
+- NEW FEATURE: Support for Self Hosted Videos.
+- NEW FEATURE: Full width images style.
+- NEW FEATURE: New Smart Stick Navigation.
+- NEW FEATURE: Option to show site logo in the Sticky Navigation.
+- NEW FEATURE: Print styles for posts .
+- NEW FEATURE: Added light bulb, thumbs up, thumbs down, plus, minus, heart and cons lists shortcode.
+- NEW FEATURE: New 7 colors for highlight text shortcode.
+- NEW FEATURE: New 5 Dividers styles shortcode.
+- NEW FEATURE: New Padding shortcode.
+- NEW FEATURE: Sticky Sidebar with option to enable/disable, and option to disable it on some pages.
+- NEW FEATURE: Option to set custom background for the mega menu.
+- NEW FEATURE: Added Translation tab to TiePanel.
+- NEW FEATURE: Option to show the tag description.
+- NEW FEATURE: Option to change the order of tabs in tabbed widget .
+- NEW FEATURE: Added share buttons to the pages.
+- NEW FEATURE: Option to add Custom Social Networks.
+- NEW FEATURE: Content Slideshow shortcode.
+- NEW FEATURE: Added Instagramy plugin save 15$.
+- NEW FEATURE: Option to use post's short link in share buttons.
+- NEW FEATURE: Builder in pages.
+- NEW FEATURE: Translatable backend.
+- NEW FEATURE: New Timeline block in the homepage builder.
+- NEW FEATURE: New Post Content block in the homepage builder.
+- NEW FEATURE: New big thumb block in the homepage builder.
+- NEW FEATURE: New masonry block in the homepage builder .
+- NEW FEATURE: Hide box title if the title field is empty.
+- NEW FEATURE: Option to show share buttons in recent posts blocks.
+- NEW FEATURE: Option to set slider type for each category.
+- NEW FEATURE: Option to set slider animation and speed for each category.
+- NEW FEATURE: Option to set slider posts number for each category.
+- NEW FEATURE: RTL Dashboard Support.
+- NEW FEATURE: New Design for Categories widget.
+- NEW FEATURE: New Design for WooCommerce pages.
+- NEW FEATURE: New Modern design for tables.
+- NEW FEATURE: New Design for bbpress.
+- NEW FEATURE: New Design for buddypress .
+- NEW FEATURE: New Design for Comments section.
+- NEW FEATURE: New Design for Add Comment form .
+- NEW FEATURE: Logo Margin bottom option.
+- NEW FEATURE: Display the number of comments in popular posts widgets.
+- NEW FEATURE: Font awesome 4.2.0 Added.
+- NEW FEATURE: Added new Foursquare icon.
+- Improved: Theme Speed.
+- Improved: Default WordPress widgets style.
+- Improved: Highlight the shop page in the main nav when browsing a product.
+- improved: Theme Updates notifier.
+- Improved: SSL issues.
+- Improved: Images and captions.
+- Improved: Twitter widget design.
+- Improved: Theme overall clean design.
+- Improved: bbPress Widget style.
+- Improved: Child theme issues.
+- Improved: Custom slider columns added.
+- Improved: Replace main nav bg image with color.
+- Improved: Videos widget.
+- Improved: Flex Slider navigation style.
+- Improved: Theme files organisation.
+- Improved: Check list and stars, loading font icon.
+- Improved: Blockquote style.
+- Improved: Buttons shortcode style.
+- Improved: Scrolling box.
+- Improved: Flickr widget.
+- Improved: Search widget.
+- Improved: About author box.
+- Improved: Authors page layout.
+- Improved: Best reviews page layout.
+- Improved: Responsive videos.
+- Improved: Readable css and js codes.
+- Fixed: All known php notices.
+- Fixed: Breaking News ticker Bug.
+- Fixed: Box shadow bug.
+- Fixed: Highlight home menu item on WPML languages home pages.
+- Fixed: Exclude pages from search bug with bbPress.
+- fixed: bug in the import/export feature.
+- Fixed: Spelling issues.
+- Fixed: Bug in flexSlider horizontal rtl.
+- Fixed: Store the default data after installing the theme.
+- Fixed: OG title bug with some plugins.
+- Removed: Feed Page Template, use [feed] shortcode instead.
+- Removed: Timthumb for security reasons.
+- Updated: Flex slider.
+- And other improvements and minor bug fixes.
+
+
+Files updated
+- Please replace whole folder. We changed too many files in this version.
+
+
+
+
+-------------------------------------------------------------------------
+
+Version 4.3.2 - 20-07-2014
+- Added: Dutch languages files.
+- Improved: Ads divs class names.
+- Fixed: pagination bug in blog list page template.
+- And other improvements and minor bug fixes.
+
+Files updated
+- style.css
+- rtl.css
+- header.php
+- single.php
+- footer.php
+- page.php
+- template-blog.php
+- template-authors.php
+- template-best-reviews.php 
+- template-feed.php 
+- template-login.php
+- template-restrict.php
+- template-sitemap.php
+- template-tags.php
+- template-timeline.php
+- languages/nl_NL.po
+- languages/nl_NL.mo
+- functions/theme-functions.php
+- includes\widgets\widget-ads.php
+- panel\shortcodes\shortcode.php 
+
+
+-------------------------------------------------------------------------
+
+Version 4.3.1 - 03-07-2014
+- Improved: Images lightbox on Mobiles.
+- Updated: Timthumb to v2.8.14.
+- Fixed: Warnings message with custom slider.
+- Fixed: Elastic slider thumbnails bug.
+- Fixed: pagination bug in blog list page template.
+- Fixed: Tabs shortcode bug.
+- Fixed: Categories bug in the slider widget.
+- And other improvements and minor bug fixes.
+
+Files updated
+- style.css
+- includes/slider.php
+- timthumb.php
+- template-blog.php
+- panel/shortcodes/ui.php
+- includes/widgets/widget-slider.php
+- js/tie-scripts.js
+
+
+-------------------------------------------------------------------------
+
+Version 4.3.0 - 19-05-2014
+- Added: WPML Support for custom code area in the homepage builder.
+- Added: RTL demo content XML file in the theme packge.
+- Updated: Timthumb to v2.8.13.
+- Fixed: Review widget bug.
+- Fixed: Some PHP warnings messages.
+- Fixed: WPML compatibilty issues.
+- And other improvements and minor bug fixes.
+
+Files updated
+- style.css
+- wpml-config.php
+- timthumb.php
+- header.php
+- footer.php
+- functions/theme-functions.php
+- functions/home-cat-videos.php
+- includes/widgets/widget-twitter.php
+- includes/widgets/widget-reviews.php
+- includes/post-share.php
+- includes/slider.php
+- panel/mpanel-ui.php
+- panel/mpanel-functions.php
+- panel/post-options.php
+- panel/shortcodes/shortcode.php
+- panel/js/tie.js
+- panel/category-options.php.php
+
+
+-------------------------------------------------------------------------
+
+Version 4.2.2 - 09-03-2014
+- Improved: All comments links removed from the sample content file.
+- Fixed: Review widget bug.
+- Fixed: BuddyPress pages comments bug.
+- Fixed: Misspelling issue in Arabic language files .
+- Fixed: Some PHP warnings messages in dashboard .
+
+Files updated
+- style.css
+- page.php
+- includes/widgets/widget-reviews.php
+- panel/post-options.php
+- panel/importer/sample.xml
+- languages/ar.po
+- languages/ar.mo
+
+-------------------------------------------------------------------------
+
+Version 4.2.1 - 04-03-2014
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- single.php
+- page.php
+- panel/mpanel-ui.php
+- panel/post-options.php
+- panel/shortcodes/shortcode.php
+- panel/notifier/update-notifier.php
+- functions/theme-functions.php
+- functions/common-scripts.php
+- functions/updates.php
+- includes/widgets/widget-ads.php
+- includes/widgets/widget-counter.php
+
+-------------------------------------------------------------------------
+
+Version 4.2.0 - 12-02-2014
+- NEW FEATURE: Compatible with the UberMenu plugin.
+- NEW FEATURE: Custom background and color options for Woocommerce shop page. 
+- Improved: Compatible with the new WooCommerce plugin version 2.1+ ( After Update the plugin you need to re-add thw shop widgets in the shop sidebar ).
+- Fixed: All known php warnings when the wp_debug is enabled.
+- Fixed: Title bug in the Text or Html widget.
+- Fixed: bbPress user profile bug.
+- Fixed: Authors social icons in authors template page.
+- Fixed: WPML bug in the Recent posts widget.
+- Fixed: Stick Main Nav bug with Safari7 on Mac (beta).
+- Fixed: Mega menu HTML bug.
+- Fixed: Delete reviews criterias bug.
+- Fixed: vimeo video og image bug.
+- Fixed: StumbleUpon post URL bug.
+- Fixed: Typography color for post links in homepage boxes bug.
+- And other improvements and minor bug fixes.
+
+Files updated
+- style.css
+- rtl.css
+- sidebar.php
+- header.php
+- bbpress.php
+- template-authors.php
+- wpml-config.xml
+- js/tie-scripts.php
+- includes/archives-meta.php
+- includes/boxes-meta.php
+- includes/post-share.php
+- includes/widgets/ (folder)
+- woocommece/ (folder)
+- functions/ (folder)
+- panel/mpanel-ui.php
+- panel/mpanel-functions.php
+- panel/js/tie.js
+- panel/post-options.php
+- panel/category-options.php
+- panel/custom-slider.php
+- panel/post-options.php
+
+-------------------------------------------------------------------------
+
+Version 4.1.1 - 16-01-2014
+- Added: Russian Language Files.
+- Fixed: Blank page bug.
+
+Files updated
+- style.css
+- functions/theme-functions.php
+- languages/ru_RU.po
+- languages/ru_RU.mo
+
+
+-------------------------------------------------------------------------
+
+Version 4.1.0 - 14-01-2014
+- NEW FEATURE: Support for responsive google adsense asynchronous code.
+- NEW FEATURE: compatible with IE on Windows 8 Tablets.
+- Improved: Support charset options for the default fonts.
+- Improved: MySql queries speed.
+- Improved: RTL styles.
+- Fixed: Google map responsive issue.
+- Fixed: Flexi slider responsive issue .
+- Fixed: Lists bullets on IE11.
+- Fixed: Dropcap and Highlight shortcodes in excerpts .
+- And other improvements and minor bug fixes.
+
+Files updated
+- style.css
+- header.php
+- template-timeline.php
+- template-best-reviews.php
+- panel/mpanel-ui.php 
+- panel/post-options.php
+- panel/custom-slider.php
+- panel/category-options.php
+- functions/theme-functions.php
+- functions/common-scripts.php
+- functions/home-recent-box.php
+- functions/home-cats.php
+- functions/home-cat-videos.php 
+- functions/home-cat-tabs.php
+- functions/home-cat-scroll.php
+- functions/home-cat-pic.php
+- includes/slider.php
+- includes/slider-category.php
+- includes/post-related.php
+- includes/post-head.php 
+- includes/breaking-news.php
+- includes/widgets/widget-facebook.php
+- includes/widgets/widget-slider.php
+- includes/widgets/widget-author.php
+
+
+-------------------------------------------------------------------------
+
+Version 4.0.4 - 31-12-2013
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- functions/theme-functions.php
+- includes/slider-category.php
+
+
+-------------------------------------------------------------------------
+
+Version 4.0.3 - 29-12-2013
+- Improved: Widgets classes names to avoid any conflict with plugins .
+- Improved: Post pagination style on Dark skin .
+- Improved: Theme updates notifier cache .
+- Fixed: Full width featured images resolution issue .
+- Fixed: Full width slider images resolution issue .
+- Fixed: Number of faces appeared in the facebook like box widget.
+- Fixed: Style issue in the Google Plus widget.
+- Fixed: Tabs height bug .
+- Fixed: custom login page dashboard logo size bug in Wordpress 3.8 .
+- Fixed: Rich snippets of pages .
+- Fixed: Review bug with IE8 .
+- Fixed: Social Icons bug in the authors page template .
+- Fixed: Duplication content issue when uses Homepage boxes layout .
+- And other improvements and minor bug fixes.
+
+Files updated
+- style.css
+- page.php
+- single.php
+- author.php
+- template-authors.php
+- functions/theme-functions.php
+- functions/common-scripts.php
+- includes/slider.php
+- includes/slider-category.php
+- includes/widgets (folder)
+- js/tabs.min.js
+- js/tie-scripts.js
+- panel/notifier/update-notifier.php
+
+- If your current version is 3+ Please replace whole folder. We changed too many files in v4.0.
+
+
+-------------------------------------------------------------------------
+
+Version 4.0.2 - 04-11-2013
+- Improved : Add WooCommerce sidebar in sidebars list for archives and posts .
+- Improved : Update notifier funstions .
+- Improved : Option in Facebook widget for dark skin .
+- Improved : Some RTL Styles.
+- Improved : Now You can set the shop, products categories , product page as full width .
+- Updated: The German languages files ( Thanks to http://cloudlog.de ) .
+- Fixed: Google +1 button language .
+- Fixed: Facebook like button width in lightbox.
+- Fixed: Facebook like button width in share buttons module.
+- Fixed: Error message when no criterias for the review .
+- Fixed: Vertical tabs shortcode height bug.
+- Fixed: Number of Woocommerce categories per row.
+- Fixed: Woocommerce Images sizes ( Deactivate the theme and re-activate it again to apllay the changes) .
+- Fixed: Columns shortcode in box shortcode bug .
+- Fixed: Homepage blog layout bug .
+- Fixed: Custom Gravatar size bug in the widgets.
+- Fixed: Google plus share post title bug .
+
+Files updated
+- style.css
+- Rtl.css
+- functions.php
+- header.php
+- single.php
+- wpml-config.xml
+- panel/mpanel-ui.php
+- panel/mpanel-functions.php
+- panel/category-options.php
+- panel/post-options.php
+- panel/notifier/update-notifier.php
+- panel/shortcodes/shortcode.php
+- panel/google-fonts.php
+- includes/widgets/widget-counter.php
+- includes/widgets/widget-twitter.php
+- includes/widgets/widget-facebook.php
+- includes/post-share.php
+- includes/slider.php
+- functions/theme-functions.php
+- functions/common-scripts.php
+- js/tie-scripts.js
+- js/tabs.min.js
+- woocommerce/ (folder)
+- languages/de_DE.po
+- languages/de_DE.mo
+
+- If your current version is 3+ Please replace whole folder. We changed too many files in v4.0.
+
+
+-------------------------------------------------------------------------
+
+Version 4.0.1 - 10-10-2013
+- Fixed: Buttons shortcode bug.
+- Fixed: Widgets bug.
+- Fixed: Footer styling option bug.
+- Fixed: Number of posts in template blog pages .
+- Fixed: WP_Error message with categories breadcrumbs.
+- And other improvements and minor bug fixes.
+
+Files updated
+- style.css
+- template-blog.php
+- panel/shortcodes/shortcode.php
+- panel/mpanel-ui.php
+- functions/theme-functions.php
+- functions/common-scripts.php
+- includes/slider.php
+- includes/slider-category.php
+- includes/post-related.php
+- includes/widgets/widget-posts.php
+- includes/breadcrumbs.php
+
+- If your current version is 3+ Please replace whole folder. We changed too many files in v4.0.
+
+
+-------------------------------------------------------------------------
+
+Version 4.0.0 - 07-10-2013
+- NEW FEATURE: New TiePanel modern Flat and Clean design .
+- NEW FEATURE: Retina Ready .
+- NEW FEATURE: WooCommerce Ready
+- NEW FEATURE: Buddypress 1.7+ Ready . 
+- NEW FEATURE: WPML Ready .
+- NEW FEATURE: bbPress Ready .
+- NEW FEATURE: Responsive Google AdSense .
+- NEW FEATURE: Instagram Followers Counter .
+- NEW FEATURE: SoundCloud Followers Counter .
+- NEW FEATURE: Behance Followers Counter .
+- NEW FEATURE: Compatibility with Infinite Scroll plugin .
+- NEW FEATURE: Best Reviews page template with options to set categories and the number of posts .
+- NEW FEATURE: Mega menu for categories links in the main nav to show latest 3 posts .
+- NEW FEATURE: Supports breadcrumbs rich snippets .
+- NEW FEATURE: Schema SEO Rich Snippet Authors Microdata.
+- NEW FEATURE: options to set Custom bg and colors for posts and pages .
+- NEW FEATURE: Unlimited Review Criterias .
+- NEW FEATURE: Drag and drop feature to sort the Review Criterias.
+- NEW FEATURE: Support HTML in Review Summary.
+- NEW FEATURE: Support Custom sliders in the slider widget .
+- NEW FEATURE: 13 new Patterns .
+- NEW FEATURE: Option to display Breaking news on the homepage only .
+- NEW FEATURE: Meta options for the Homepage boxes .
+- NEW FEATURE: Meta options for archives and Homepage blog layout .
+- NEW FEATURE: Option to Hide Slides caption .
+- NEW FEATURE: Option to set the length of Slides caption .
+- NEW FEATURE: option to set number of posts in tabbed widget .
+- NEW FEATURE: Option to set custom category logo ( applies on posts under it ) .
+- NEW FEATURE: option for Full width logo.
+- NEW FEATURE: option to Center the logo.
+- NEW FEATURE: option to hide the main nav.
+- NEW FEATURE: option to upload a Retina Version of the site logo.
+- NEW FEATURE: option to show share buttons in the top of the post .
+- NEW FEATURE: option to Enable/Disable the modern Colored browser Scrollbar .
+- NEW FEATURE: Active title link for the scrolling and news in picture boxes .
+- NEW FEATURE: OG Meta for posts with option to disable it .
+- NEW FEATURE: Nofollow option for banners settings and Ads widgets .
+- NEW FEATURE: Apple devices Friendly .
+- NEW FEATURE: Background image ADS .
+- NEW FEATURE: Post link on the image in the Elastic slider .
+- NEW FEATURE: Full Share buttons on archives .
+- NEW FEATURE: Facebook Like and tweet buttons on the lightbox. 
+- NEW FEATURE: Option to set a custom URL for the login page logo. 
+- NEW FEATURE: Multiple categories selection for blog list page template .
+- NEW FEATURE: option to set User Roles for the authors page template .
+- NEW FEATURE: Option to set custom Title for the related posts box .
+- NEW FEATURE: Supports Youtube channels in the social counter widget .
+- NEW FEATURE: Variable tags to display current year , Site name and site URL dynamically in footer areas 
+- NEW FEATURE: New Social icons for 500px - Soundcloud , github and foursquare
+- NEW FEATURE: Behance and instagram in the author social links 
+- NEW FEATURE: Post format icons appears when mouseover on featured image .
+- NEW FEATURE: Multiple rows supported in the main nav .
+- NEW FEATURE: Offset option in the Homepage boxes .
+- NEW FEATURE: Video post format now supports Viddler, Qik, Hulu, FunnyOrDie, WordPress.tv and blip.tv .
+- NEW FEATURE: Video Box in the homepage builder .
+- NEW FEATURE: Live typography preview .
+- NEW FEATURE: Added new 129 Google Fonts .
+- NEW FEATURE: New Web Safe Fonts .
+- NEW FEATURE: New FlexSlider caption animation .
+- NEW FEATURE: One Click Auto-Install demo sample data .
+- NEW FEATURE: Added Danish language files .
+- NEW FEATURE: Typography option for Khmer and Vietnamese Google fonts Character sets .
+- Improved: Columns shortcode now responsive .
+- Improved: H1 tag for categories and tags titles in archives pages .
+- Improved: Search when "Exclude Pages in results" option enabled .
+- Improved: Apply the Typography options on Post Titles in the Blog Layout .
+- Improved: Footer bottom area text size on small devices .
+- Improved: Pagination style for Multiple posts pages .
+- Improved: Share Buttons load time .
+- Improved: Scrolling box responsive style .
+- Improved: Cat tabbed box and tabbed widget .
+- Improved: Wp_title() function .
+- Improved: Thumbnails functions .
+- Improved: Facebook Counter function .
+- Improved: Twitter Counter function .
+- Improved: Twitter widget .
+- Improved: User ratings stars on Firefox  .
+- Improved: Facebook widget .
+- Improved: Flex slider start time .
+- Improved: Widgets with empty titles which breaks HTML theme structure .
+- Improved: Remove "Comments are closed." and "Category Archives:" .
+- Improved: All Categories settings moved to category edit page .
+- Improved: RTL Style issues .
+- Improved: Related posts module .
+- Updated : PrettyPhoto to version 3.1.5 .
+- Fixed: Total score stars bug in points review system (Edit the posts contained points reviews and click update button) .
+- Fixed: Social Counter style bug on RTL .
+- Fixed: Conflict with Digg Digg plugin.
+- Fixed: Recent posts box pagination bug.
+- Fixed: The number of posts in the recent posts box when there are sticky posts.
+- And other improvements and minor bug fixes.
+
+Files updated
+- Please replace whole folder. We changed too many files in this version.
+
+
+-------------------------------------------------------------------------
+
+Version 3.4.1 - 27-08-2013
+- Improved: Insert Video button back using default wordpress [embed] shortcode .
+- Fixed: [video] shortcode bug .
+- Fixed: Horizontal scrollbar on RTL Sites caused by Google Plus Share button .
+- Fixed: Page Head module bug in authors page temblate .
+
+Files Updated
+- style.css
+- rtl.css
+- template-authors.php
+- functions/theme-functions.php
+- panel/shortcodes/shortcode.php
+- panel/shortcodes/ui.php
+
+
+-------------------------------------------------------------------------
+
+Version 3.4.0 - 05-08-2013
+- Fully Supports New Worpress 3.6 .
+- Fixed: Recent news box pagination bug.
+- Improved: Twitter and Social counter widget .
+- And other improvements and minor bug fixes.
+
+Files Updated
+- style.css
+- images/ (folder)
+- includes/widgets/widget-counter.php
+- includes/widgets/widget-twitter.php
+- includes/widgets/widget-video.php
+- includes/pagenavi.php
+- functions/theme-functions.php 
+- functions/home-recent-box.php
+- panel/shortcodes/shortcode.php
+
+
+-------------------------------------------------------------------------
+
+Version 3.3.0 - 17-07-2013
+- NEW FEATURE: Display the featured image caption below it in the single post page.
+- NEW FEATURE: Pagination option for recent posts box in homepage builder.
+- Improved: Twitter Counter function.
+- Improved: Custom background option in dark skin.
+- Improved: Vertical tabs shortcode height.
+- Improved: theme updates notifier cache .
+- Fixed: Google Plus widget on RTL version.
+- Fixed: Delete Homepage builder items and custom slides icon.
+- Fixed: Social icons in author pages.
+- Fixed: Conflict with wordpress related posts plugins.
+- And other improvements and minor bug fixes.
+
+Files Updated
+- style.css
+- author.php
+- functions.php
+- js/tabs.min.js
+- panel/style.css
+- panel/mpanel-ui.php
+- panel/js/tie.js
+- panel/custom-slider.php
+- functions/common-scripts.php
+- functions/home-recent-box.php
+- functions/theme-functions.php
+- includes/post-head.php
+- includes/twitteroauth/twitteroauth.php
+- includes/widgets/widget-news-pic.php
+- includes/widgets/widget-posts.php
+- includes/widgets/widget-tabbed.php
+- includes/widgets/widget-category.php
+- includes/widgets/widget-authors-posts.php
+- includes/widgets/widget-comments-avatar.php
+
+
+-------------------------------------------------------------------------
+
+Version 3.2.2 - 26-06-2013
+- Improved: All Twitter API Error messages moved to the backend .
+- Improved: Theme Performance and Speed by caching the Social counters for 20 minutes .
+- And other improvements and minor bug fixes.
+
+Files Updated
+- style.css
+- functions/theme-functions.php
+- includes/widgets/widget-twitter.php
+- includes/widgets/widget-counter.php
+- panel/mpanel-functions.php
+
+
+-------------------------------------------------------------------------
+
+Version 3.2.1 - 23-06-2013
+- Improved : Twitter social counter/widget.
+- Improved : Timeline Template page.
+- Improved : Posts titles in the Sidebar slider.
+- Fixed: Facebook Like box in the archives pages.
+- And other improvements and minor bug fixes.
+
+Files Updated
+- style.css
+- rtl.css
+- loop.php
+- template-timeline.php
+- functions/theme-functions.php
+- includes/twitteroauth/ (folder)
+- includes/widgets/widget-twitter.php
+- panel/mpanel-functions.php
+
+
+-------------------------------------------------------------------------
+
+Version 3.2.0 - 18-06-2013
+- NEW FEATURE: Reviews for pages .
+- NEW FEATURE: Support shortcodes in AD widgets .
+- Updated : Theme functions to use Twitter Api 1.1 .
+- Improved: Elastic Slideshow Slides Images ALT .
+- Improved: Reviews style in the dark skin .
+- Improved: Lightbox Next/Prev arrows
+- Improved: Max content width for the full width posts/pages .
+- Fixed: Search icon .
+- Fixed: Points system total score image .
+- Fixed: Custom Header background in the dark skin .
+- Fixed: post head videos conflict with the main nav on IE .
+- And other improvements and minor bug fixes.
+
+Files Updated
+- style.css
+- page.php
+- single.php
+- functions.php
+- panel/post-options.php
+- functions/theme-functions.php
+- functions/common-scripts.php
+- includes/twitteroauth/ (folder)
+- includes/slider.php
+- includes/slider-category.php
+- includes/post-head.php
+- includes/widgets/widget-ads.php
+
+
+-------------------------------------------------------------------------
+
+Version 3.1.1 - 02-06-2013
+- Improved: Form elements styles.
+- Improved: Slider Typography options .
+- Improved: Site title and tagline typography options.
+- Fixed: Sidebar Slider position.
+- Fixed: Timeline page comments bug.
+- And other improvements and minor bug fixes.
+
+Files Updated
+- style.css
+- rtl.css
+- template-timeline.php
+- functions/common-scripts.php
+- functions/theme-functions.php
+- panel/shortcodes/ui.php
+- panel/mpanel-ui.php
+- js/tie-scripts.js
+
+
+-------------------------------------------------------------------------
+
+Version 3.1.0 - 18-05-2013
+- NEW FEATURE: Users ratings .
+- NEW FEATURE: Styling Option to set the Highlighted Color .
+- NEW FEATURE: Styling Options to Main Navigation styling .
+- NEW FEATURE: Option to disable theme gallery to use Jetpack Tiled Galleries .
+- NEW FEATURE: Ability to choose Normal fonts Tahmoa , Arial , Georgia , etc from fonts list .
+- NEW FEATURE: 6 Arabic fonts .
+- NEW FEATURE: Supports Shortcodes in banners area .
+- NEW FEATURE: Best reviews option in the posts list widget .
+- NEW FEATURE: Typography option for slider posts titles ,
+- NEW FEATURE: Posts titles in the homepage news boxes .
+- NEW FEATURE: Site title and Tagline .
+- Improved : Twitter , Facebook , Social widgets to avoid any conflict with plugins .
+- Improved : shortcodes on Dark skin .
+- Improved : Full width slider images apperance .
+- Improved : Page / Post Elements .
+- Improved : Save theme settings function .
+- Improved : Facebook like button to show the comment area .
+- Improved : wp_title() function .
+- Fixed : Breadcrumbs bug when the post doesn't have a category .
+- Fixed : Author widgets bug .
+- Fixed : Register page link in the login widget .
+- Fixed : Slider thumbnails width . 
+- Fixed : Button shortcode bug .
+- Updated : Theme documentations .
+
+Files Updated
+- style.css
+- rtl.css
+- header.php
+- single.php
+- functions.php
+- panel/mpanel-ui.php
+- panel/mpanel-functions.php
+- panel/google-fonts.php
+- panel/shortcodes/ui.php
+- panel/post-options.php
+- panel/style.css
+- panel/js/tie.js
+- functions/common-scripts.php
+- functions/theme-functions.php
+- functions/home-cats.php
+- functions/home-cat-scroll.php
+- functions/home-cat-tabs.php
+- functions/home-recent-box.php
+- functions/banners.php
+- includes/breadcrumbs.php
+- includes/slider.php
+- includes/post-share.php
+- includes/single-post-share.php
+- includes/slider-category.php
+- includes/widgets/widget-twitter.php
+- includes/widgets/widget-flickr.php
+- includes/widgets/widget-facebook.php
+- includes/widgets/widget-social.php
+- includes/widgets/widget-author-custom.php
+- includes/widgets/widget-author.php
+- includes/widgets/widget-posts.php
+- images/stars-large.png
+
+Files added :
+images/ajax-loader.png
+
+
+-------------------------------------------------------------------------
+
+Version 3.0.4 - 12-03-2013
+- Improvements and minor bug fixes.
+
+Files Updated
+- style.css
+- functions/theme-functions.php
+- panel/shortcodes/shortcode.php
+- panel/post-options.php
+- panel/custom-slider.php
+
+
+-------------------------------------------------------------------------
+
+Version 3.0.3 - 08-03-2013
+- Improvements and minor bug fixes.
+
+Files Updated
+- Style.css
+- single.php
+- includes/twitteroauth
+- includes/slider-category.php
+- panel/mpanel-ui.php
+- panel/post-options.php
+- functions/theme-functions.php
+- includes/widgets/widget-facebook.php
+- includes/widgets/widget-video.php
+
+
+
+-------------------------------------------------------------------------
+
+Version 3.0.2 - 01-03-2013
+- Improvements and minor bug fixes.
+
+Files Updated
+- style.css
+- rtl.css
+- functions.php
+- functions/common-scripts.php
+- functions/theme-functions.php
+- panel/mpanel-ui.php
+- panel/mpanel-functions.php
+- panel/shortcodes/shortcodes.php
+- includes/widgets/widget-twitter.php
+
+-------------------------------------------------------------------------
+
+Version 3.0.1 - 20-02-2013
+- Improvements and minor bug fixes.
+
+
+
+-------------------------------------------------------------------------
+
+Version 3.0.0 - 19-02-2013
+
+- Added : Option to Hide Top Menu .
+- Added : Option to Hide Rss from Social Icons .
+- Added : Option to disable all posts dates .
+- Added : Option to choose map alignment for Google map shortcode .
+- Added : Option to Display posts excerpt + Full width featured image .
+- Added : Option to Choose the posts order in news boxes ( latest / random)  .
+- Added : Option to show featured image with lightbox in post head area  .
+- Added : Custom Background and color for categories and posts belongs to it .
+- Added : Google Play , Instagram , Spotify , PayPal , Behance , VK and Viadeo social Icons .
+- Added : New layout style for the New in picture box .
+- Added : New Modern style social counter icons .
+- Added : New Modern style social icons .
+- Added : New Modern style social icons for authors bio .
+- Added : New Modern style for the audio player shortcode .
+- Added : New Modern style for scrollbar ( webkit browsers only ) .
+- Added : 24px Icons size for social icons widget .
+- Added : Dark Skin .
+- Added : Widget - Subscribe to youtube Channel .
+- Added : Widget - Authors Posts .
+- Added : Widget - Posts Slider .
+- Added : Widget - SoundCloud .
+- Added : Widget - Cutom author content to display banners or text  .
+- Added : Self Hosted Audio post/page format .
+- Added : SoundCloud post/page format .
+- Added : Time Ago Format with option to enable/disable it.
+- Added : New Styling Options .
+- Improved : Sub menus style of heighlighted Menu item .
+- Improved : Open Graph protocol .
+- Improved : SEO - Structured Data .
+- Improved : Theme Speed and performance .
+- Improved : Design of a lot of theme elements .
+- Improved : Theme functions for child theme support .
+- Improved : Social Counter Function .
+- Improved : Responsive layout .
+- Improved : Shortcodes in non-posts .
+- Improved : Compatibility with twitter api 1.1 .
+- Improved : Scroll to top icon animation .
+- Updated : TimThumb .
+- Updated : German languages Files .
+- Fixed : Conflict with some plugins .
+
+Files updated
+- Please replace whole folder. We changed too many files in this version.
+
+
+
+-------------------------------------------------------------------------
+
+Version 2.5.0 - 11-01-2013
+
+- Added : Next/prev to lightbox for [gallery] shortcode .
+- Added : Character sets option to support Cyrillic , Greek fonts .
+- Added : supports http://youtu.be videos in post head .
+- Added : supports http://youtu.be videos in [video] shortcode .
+- Added : supports dailymotion videos in post head .
+- Added : supports dailymotion videos in [video] shortcode .
+- Added : Full width slider in post head for full width posts .
+- Added : Drag and Drop to sort categories in Categories Tabs Box .
+- Added : option to open links in social counter widget in a new tab .
+- Added : Croatian language .
+- Improved : Videos width and height ratio .
+- Improved : Remove auto capitalize letters .
+- Improved : Set Max width for Logo image .
+- Fixed : Reset settings bug .
+- Fixed : Scrolling box spacing issue with RTL .
+- Updated : French language files .
+
+Files updated
+- style.css
+- RTL.css
+- js/tie-scripts.js
+- functions/theme-functions.php
+- functions/common-scripts.php
+- includes/post-head.php
+- includes/widgets/widget-counter.php
+- languages/fr_FR.po
+- languages/fr_FR.mo
+- panel/ (folder)
+
+Files Added:
+- languages/hr_HR.po
+- languages/hr_HR.mo
+
+
+-------------------------------------------------------------------------
+
+Version 2.4.2 - 04-01-2013
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- includes/post-head.php
+- panel/mpanel-functions.php
+
+
+-------------------------------------------------------------------------
+
+Version 2.4.1 - 01-01-2013
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- header.php
+- RTL.css
+- category.php
+- author.php
+- functions/theme-functions.php
+- includes/post-head.php
+
+
+-------------------------------------------------------------------------
+
+Version 2.4.0 - 22-12-2012
+- Added : 300*600 ADV widget .
+- Added : Youtube channel counter .
+- Added : viemeo channel counter .
+- Added : dribbble counter .
+- Added : LightBox for WP [Gallery] shortcode .
+- Added : [LightBox] shortcode .
+- Added : Schema SEO Rich Snippet Breadcrumbs Microdata  .
+- Improved : performance and speed of the theme .
+- Improved : Facebook Counter .
+- Improved : Schema SEO Rich Snippet Review Microdata
+- Improved : SEO issues
+- Fixed : Social icons path bug .
+- Fixed : Author Feed URL bug  .
+- Fixed : Typography bug with some fonts .
+- Fixed : Slider directions bug in RTL blogs .
+
+Files updated
+- style.css
+- author.php
+- single.php
+- header.php
+- RTl.css
+- js/tie-scripts.js
+- panel/mpanel-ui.php
+- panel/js/tie.js
+- panel/mpanel-functions.php
+- panel/shortcodes folder
+- functions/theme-functions.php
+- functions/common-scripts.php
+- includes/widgets/widget-counter.php
+- includes/widgets/widget-ads.php
+- includes/widgets/widget-twitter.php
+- includes/breadcrumbs.php
+
+Files Added :
+- images/prettyPhoto/
+
+
+-------------------------------------------------------------------------
+
+Version 2.3.0 - 12-11-2012
+- Added : Points style in the review system .
+- Added : [review] shortcode to display the review box in any position in the post .
+- Added : Post Review widget .
+- Added : Sticky Navigation menu .
+- Added : Option to Disable the theme Responsiveness.
+- Added : Pinterest Style for widgets in responsive action .
+- Added : Post-Head module in blog page template to display slider , video , etc .
+- Added : Styling Option for main content box background .
+- Added : show the short summary when mouse over on the stars .
+- Added : show Sahifa in top bar for adminstartors only .
+- Added : combatablity with some Ad plugins .
+- Improved : responsive issues .
+- Improved : Search widget style in the footer .
+- Improved : The default favicon .
+- Fixed : Problem in categories slider .
+- Fixed : Missed some microdata attributes in the review posts .
+- Fixed : Image Caption alignment bug .
+
+Files updated
+- Please replace whole folder. We changed too many files in this version.
+
+-------------------------------------------------------------------------
+
+Version 2.2.0 - 26-10-2012
+- Added : Reviews System .
+- Improved : Styling Options.
+- Improved : Typography Options.
+- Improved : Responsive issues .
+- Fixed : Fetal error caused by Feedburner Api .
+
+Files updated
+- Please replace whole folder. We changed too many files in this version.
+
+-------------------------------------------------------------------------
+
+Version 2.1.0 - 24-10-2012
+- Added : Ability for adding a custom text with link in breaking news module .
+- Improved : Widgets Titles when it is empty .
+- Improved : RTL styling issues .
+- Fixed : Author icons bug in author page template .
+- Fixed : Responsive issues .
+
+Files updated
+- styles.css
+- css/page-template.css
+- template-authors.php
+- functions/theme-functions.php
+- rtl.css
+- includes/breaking-news.php
+- panel/js/tie.js
+- panel/mpanel-ui.php
+- panel/mpanel-functions.php
+- panel/style.css
+
+-------------------------------------------------------------------------
+
+Version 2.0.1 - 19-10-2012
+- Fixed : IE Bug .
+
+Files updated
+- style.css
+- header.php
+
+-------------------------------------------------------------------------
+
+Version 2.0.0 - 18-10-2012
+- Added : Custom sliders for categories .
+- Added : custom Sidebars for categories pages .
+- Added : New ticker animation in breaking news module .
+- Added : Custom css fields to make changes depend on the device .
+- Added : Ability for adding news boxs with different styles in homepage .
+- Improved : Seo in Header .
+- Improved : Audio shortcode .
+- Improved : Galleries style .
+- Improved : Scroll to top function .
+- Improved : Responsive issues .
+- Improved : Reset settings button .
+- Improved : Og:image to get video image from youtube/viemo if the post hasn't a featured image .
+- Fixed : Twitter Counter bug .
+- Fixed : category feed url .
+
+Files updated
+- style.css
+- header.php
+- sidebar.php
+- category.php
+- footer.php
+- panel/mpanel-ui.php
+- panel/shortcodes/shortcode.php
+- panel/style.css
+- panel/js/tie.js
+- js/tie-scripts.js
+- functions/theme-functions.php
+- functions/common-scripts.php
+- functions/home-cats.php
+- includes/breaking-news.php
+- includes/single-post-share.php
+- includes/post-share.php
+- css/shortcodes.php
+- images/jplayer folder
+- Added : includes/slider-category.php
+
+-------------------------------------------------------------------------
+
+Version 1.7.0 - 04-10-2012
+- Added : typography option for pages entry .
+- Added : display posts in slider from multiple categories .
+- Added : Persian language.
+- Improved : save options function .
+- Improved : ie8 issues  .
+- Improved : Responsive issues .
+- Fixed : height of thumbs bug in slider .
+- Fixed : Selection bug in custom slider .
+- Fixed : Missing http: in pinterest and linkedin share buttons .
+
+Files updated
+- style.css
+- rtl.css
+- css/ie8.css
+- functions/common-scripts.php
+- functions/theme-functions.php
+- panel/custom-slider.php
+- panel/mpanel-functions.php.
+- panel/mpanel-ui.php
+- includes/slider.php
+- includes/post-share
+- includes/single-post-share
+- js/jquery.eislideshow.js
+
+-------------------------------------------------------------------------
+
+Version 1.6.0 - 16-09-2012
+- Added : highlight Category in main navigation when browsing post in it .
+- Added : highlight parent page in main navigation when browsing a children page of it.
+- Improved : Elastic Slideshow when it display less than 5 posts .
+- Fixed : Custom Sidebars bug in post edit page .
+- Fixed : Post Head Bug in post edit page .
+- Fixed : Contents / excerpet bug in home recent box in Homepage .
+- Fixed : Post entry Typography settings bug .
+- Fixed : Comment link bug in recent commrnts widget .
+
+Files updated
+- style.css
+- includes/slider.php
+- functions/home-recent-box.php
+- functions/common-scripts.php
+- functions/theme-functions.php
+- panel/post-options.php
+- panel/js/tie.js
+- css/style-black.css
+- css/style-blue.css
+- css/style-green.css
+- css/style-pink.css
+- css/style-purple.css
+- css/style-red.css
+- css/style-yellow.css
+
+-------------------------------------------------------------------------
+
+Version 1.5.0 - 14-09-2012
+- Improved : Post Excerpt Functions .
+- Fixed : Minor bug .
+
+Files updated
+- loop.php
+- style.css
+- functions/home-cat-tabs.php
+- functions/home-cats.php
+- functions/home-recent-box.php
+- functions/theme-functions.php
+- includes/slider.php
+
+-------------------------------------------------------------------------
+
+Version 1.4.0 - 13-09-2012
+
+- Added : GoogleMap In page post Head .
+- Added : option to change links color in the post .
+- Added : option to change Excerpt Length .
+- Added : French language .
+- Added : Turkish language .
+- Improved : performance and speed of the theme .
+- Improved : Display the Empty categories in HomePage Builder .
+- Improved : Preview image in pinerest .
+- Improved : Get the post Thumbnail when share post in facebook or Google + .
+- Improved : Social Counter Widget .
+- Fixed : Full background Image Bug .
+- Fixed : Post Head Bug .
+- Fixed : Alternative Text bug For The banners.
+- Fixed : blockquote height bug .
+- Fixed : ADS accessible bug on firefox .
+- Fixed : tooltip css conflict with some plugins .
+
+-------------------------------------------------------------------------
+
+Version 1.3.0 - 05-09-2012
+
+- Added : Custom css class for excerpt more link .
+- Added : Post Head Module to all template pages .
+- Added : Blog List template page .
+- Added : option to choice more than one category in Breaking News Module .
+- Added : option to Display posts via Tags in Breaking News Module .
+- Added : Option to display excerpt or content in archives and homepage blog style .
+- Added : [feed] Shortcode to disply feeds in posts .
+- Added : [is_logged_in] Shortcode to display specific content to logged in users .
+- Added : [is_guest] Shortcode to display specific content to guests .
+- Added : [googlemap] Shortcode to display Google Maps in posts  .
+- Added : FeedBurner email newsletter widget .
+- Added : option To add Google map in The Post Head .
+- Added : Spanish language .
+- Added : Portuguese Brazil language .
+- Improved : Rtl.css .
+- Improved : Counter Widget .
+- Improved : Share Buttons on small devices .
+- Fixed : Login Widget bug .
+- Fixed : Search bug in Media Library .
+- Fixed : Full background bug .
+- Fixed : Post title bug in random posts widget .
+- Fixed : Author widgets bug in footer .
+- Fixed : Feature Image bug in post Head .
+- Fixed : Current Time zone bug in today date .
+- Fixed : Related Posts item height .
+- Fixed : Typography options bug .
+
+-------------------------------------------------------------------------
+
+Version 1.2.0 - 27-08-2012
+
+- Added : Shortcode support in text-html Widget and Custom Author bio widget. 
+- Added : Shortcode support in ADS Box in home Builder. 
+- Added : Option to Display Social share buttons in archives pages . 
+- Added : 8 new patterns . 
+- Added : Separated file to custom Functions. 
+- Added : sample Content xml file . 
+- Added : More Styling options . 
+- Added : option to Recent box to Display posts in normal Blog style . 
+- Added : login box to restrict content template . 
+- Added : login widget . 
+- Added : Login Page Template . 
+- Added : German / Italian languages . 
+- Added : Option to change the format of today date in top Navigation . 
+- Added : Custom slider 
+- Added : Option to Display Thumbnail image in single page and pages . 
+- Added : Single post and page slider option . 
+- Added : Jetpack Plugin compatibility . 
+- Added : Older Wordpress versions compatibility .
+- Improved : using mb_substr instead of substr . 
+- Improved : content_width of the theme . 
+- Improved : Use Jplayer with audio files . 
+- Improved : Date function . 
+- Improved : Pagenavi function . 
+- Improved : SEO . 
+- Improved : Dropdown menu for ipad portrait .
+- Fixed : Scrolling box height bug . 
+- Fixed : Sidebar Position in Single Posts. 
+- Fixed : Delete boxes bug in home Builder with Firefox . 
+- Fixed : Responsive bugs in RTL.css . 
+- Fixed : Media Uploader bug in Tiepanel . 
+- Fixed : Home dropdown menu background color . 
+
+-------------------------------------------------------------------------
+
+Version 1.1.0 - 17-08-2012
+
+- Fixed : Responsive bug .
+- Fixed : Global sidebar position bug.
+- Fixed : Post link bug in popular posts widget and tabbed widget .
+- Fixed : Css bug for rtl blogs .
+
+-------------------------------------------------------------------------
+
+Version 1.0.0
+- First release
