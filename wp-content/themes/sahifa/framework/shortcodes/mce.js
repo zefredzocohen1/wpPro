@@ -69,7 +69,7 @@
 					
 				},
 				{
-					text: tieLang.shortcode_button,
+					text: 'Button ads',
 					onclick: function() {
 						editor.windowManager.open( {
 							title: tieLang.shortcode_button,
@@ -128,10 +128,158 @@
 
 							],
 							onsubmit: function( e ) {
-								editor.insertContent( '[button color="' + e.data.ButtonColor + '" size="' + e.data.ButtonSize + '" link="' + e.data.ButtonLink + '" icon="' + e.data.ButtonIcon + '" target="' + e.data.ButtonTarget + '"]'+ e.data.ButtonText +'[/button]');
+								editor.insertContent( '[button color="' + e.data.ButtonColor + '" size="' + e.data.ButtonSize + '" link="' + e.data.ButtonLink + '" icon="' + e.data.ButtonIcon + '" target="' + e.data.ButtonTarget + '" type = "1"]'+ e.data.ButtonText +'[/button]');
 							}
 						});
 					}
+				},
+				{
+					text: tieLang.shortcode_button,
+					menu: [
+						{
+							text: tieLang.shortcode_button,
+							onclick: function() {
+								editor.windowManager.open( {
+									title: tieLang.shortcode_button,
+									body: [
+										{
+											type: 'listbox',
+											name: 'ButtonColor',
+											label: tieLang.shortcode_color,
+											'values': [
+												{text: tieLang.shortcode_red, value: 'red'},
+												{text: tieLang.shortcode_orange, value: 'orange'},
+												{text: tieLang.shortcode_blue, value: 'blue'},
+												{text: tieLang.shortcode_green, value: 'green'},
+												{text: tieLang.shortcode_black, value: 'black'},
+												{text: tieLang.shortcode_gray, value: 'gray'},
+												{text: tieLang.shortcode_white, value: 'white'},
+												{text: tieLang.shortcode_pink, value: 'pink'},
+												{text: tieLang.shortcode_purple, value: 'purple '}
+											]
+										},
+										{
+											type: 'listbox',
+											name: 'ButtonSize',
+											label: tieLang.shortcode_size,
+											'values': [
+												{text: tieLang.shortcode_small, value: 'small'},
+												{text: tieLang.shortcode_medium, value: 'medium'},
+												{text: tieLang.shortcode_big, value: 'big'}
+											]
+										},
+										{
+											type: 'textbox',
+											name: 'ButtonLink',
+											label: tieLang.shortcode_link,
+											minWidth: 300,
+											value: 'http://'
+										},
+										{
+											type: 'textbox',
+											name: 'ButtonText',
+											label: tieLang.shortcode_text,
+											value: ''
+										},
+										{
+											type: 'textbox',
+											name: 'ButtonIcon',
+											label: tieLang.shortcode_icon,
+											value: ''
+										},
+										{
+											type: 'checkbox',
+											name: 'ButtonTarget',
+											label: tieLang.shortcode_new_window,
+											value: 'blank',
+										}
+
+									],
+									onsubmit: function( e ) {
+										editor.insertContent( '[button color="' + e.data.ButtonColor + '" size="' + e.data.ButtonSize + '" link="' + e.data.ButtonLink + '" icon="' + e.data.ButtonIcon + '" target="' + e.data.ButtonTarget + '"]'+ e.data.ButtonText +'[/button]');
+									}
+								});
+							}
+						},
+						{
+							text: tieLang.shortcode_button_ads,
+							onclick: function() {
+								editor.windowManager.open( {
+									title: tieLang.shortcode_button_ads,
+									body: [
+										{
+											type: 'listbox',
+											name: 'ButtonColor',
+											label: tieLang.shortcode_color,
+											'values': [
+												{text: tieLang.shortcode_red, value: 'red'},
+												{text: tieLang.shortcode_orange, value: 'orange'},
+												{text: tieLang.shortcode_blue, value: 'blue'},
+												{text: tieLang.shortcode_green, value: 'green'},
+												{text: tieLang.shortcode_black, value: 'black'},
+												{text: tieLang.shortcode_gray, value: 'gray'},
+												{text: tieLang.shortcode_white, value: 'white'},
+												{text: tieLang.shortcode_pink, value: 'pink'},
+												{text: tieLang.shortcode_purple, value: 'purple '}
+											]
+										},
+										{
+											type: 'listbox',
+											name: 'typeButton',
+											label: tieLang.shortcode_button_ads,
+											'values': [
+												{text: tieLang.shortcode_type_ads_no, value: '0'},
+												{text: tieLang.shortcode_type_ads_adf_ly, value: '1'},
+												{text: tieLang.shortcode_type_ads_ouo_io, value: '2'},
+												{text: tieLang.shortcode_type_ads_uskip, value: '3'},
+												{text: tieLang.shortcode_type_ads_shorte_st, value: '4'}
+											]
+										},
+										{
+											type: 'listbox',
+											name: 'ButtonSize',
+											label: tieLang.shortcode_size,
+											'values': [
+												{text: tieLang.shortcode_small, value: 'small'},
+												{text: tieLang.shortcode_medium, value: 'medium'},
+												{text: tieLang.shortcode_big, value: 'big'}
+											]
+										},
+										{
+											type: 'textbox',
+											name: 'ButtonLink',
+											label: tieLang.shortcode_link,
+											minWidth: 300,
+											value: 'http://'
+										},
+										{
+											type: 'textbox',
+											name: 'ButtonText',
+											label: tieLang.shortcode_text,
+											value: ''
+										},
+										{
+											type: 'textbox',
+											name: 'ButtonIcon',
+											label: tieLang.shortcode_icon,
+											value: ''
+										},
+										{
+											type: 'checkbox',
+											name: 'ButtonTarget',
+											label: tieLang.shortcode_new_window,
+											value: 'blank',
+										}
+
+									],
+									onsubmit: function( e ) {
+										editor.insertContent( '[button type="'+ e.data.typeButton +'" color="' + e.data.ButtonColor + '" size="' + e.data.ButtonSize + '" link="' + e.data.ButtonLink + '" icon="' + e.data.ButtonIcon + '" target="' + e.data.ButtonTarget + '"]'+ e.data.ButtonText +'[/button]');
+									}
+								});
+							}
+						}
+					]
+					
 				},
 				{
 					text: tieLang.shortcode_tabs,

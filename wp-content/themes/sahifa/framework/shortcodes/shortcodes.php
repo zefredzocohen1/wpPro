@@ -115,18 +115,40 @@ add_shortcode('author', 'tie_shortcode_author_info');
 function tie_shortcode_button( $atts, $content = null ) {
 	$size  = 'small';
 	$color = 'gray';
-	$link  = $button_target = $align = $icon   = '';
+	$link  = $button_target = $align = $icon = $type = '';
 	
     if( is_array( $atts ) ) extract($atts);
 
 	if( !empty( $target ) && $target == 'true' ) $button_target = ' target="_blank"';
 	if( !empty( $icon ) )   $icon   = '<i class="fa '.$icon.'"></i>';
+	if(!empty($type)){
+
+		$link = get_ads($link, $type);
+	}
 	
 	$out = '<a href="'.$link.'"'.$button_target.' class="shortc-button '.$size.' '.$color.' '.$align.'">'. $icon . do_shortcode($content). '</a>';
     return $out;
 }
 add_shortcode('button', 'tie_shortcode_button');
 
+## Buttons -------------------------------------------------- #
+function tie_shortcode_page( $atts, $content = null ) {
+	$size  = 'small';
+	$color = 'gray';
+	$link  = $button_target = $align = $icon = $type = '';
+	
+    if( is_array( $atts ) ) extract($atts);
+
+	if( !empty( $target ) && $target == 'true' ) $button_target = ' target="_blank"';
+	if( !empty( $icon ) )   $icon   = '<i class="fa '.$icon.'"></i>';
+	if(!empty($type) && $type == '1'){
+		$link = '//google.com.vn'.$link;
+	}
+	
+	$out = '<a href="'.$link.'"'.$button_target.' class="shortc-button '.$size.' '.$color.' '.$align.'">'. $icon . do_shortcode($content). '</a>';
+    return $out;
+}
+add_shortcode('page', 'tie_shortcode_page');
 
 ## Flickr -------------------------------------------------- #
 function tie_shortcode_flickr( $atts, $content = null ) {
@@ -616,4 +638,50 @@ function tie_five_sixth_last( $atts, $content = null ) {
    return '<div class="five_sixth last">' . do_shortcode($content) . '</div><div class="clear"></div>';
 }
 add_shortcode('five_sixth_last', 'tie_five_sixth_last');
+
+function get_ads($link, $type){
+	$ads_arr = [
+		'adf_ly'	=> 1,
+		'ouo_io'	=> 2,
+		'uskip'		=> 3,
+		'shorte_st'	=> 4
+	];
+	$name_ads = array_search($type, $ads_arr);
+	if(!empty($link) && !empty($name_ads)){
+		$name_function = 'get_'.$name_ads;
+		return $name_function($link);
+	}
+	return $link;
+}
+
+function get_adf_ly($link, $advert_type = 'int', $domain = 'http://themesdownload.online.local.vn/'){
+	global $type_ads_api;
+	 $url = $type_ads_api['adf_ly']['url'];
+	 $list_account = $type_ads_api['adf_ly']['account'];
+	 $domain = !empty($domain) ? $domain : DOMAIN;
+	 $index = rand(0, count($list_account));
+	 $query = array(
+	    'key' 			=> $list_account[$index]['key'],
+	    'uid' 			=> $list_account[$index]['uid'],
+	    'advert_type' 	=> $advert_type,
+	    'url' 			=> $link
+	  );
+	 $api = $url.http_build_query($query);
+	 if ($url_encode = file_get_contents($api)){
+	    return '//'.$url_encode;	
+	 }
+	return $link;
+}
+
+function get_ouo_io($link){
+	return 'http://abc.com.vn.jp';
+}
+
+function get_uskip($link){
+	return 'http://abc.com.vn.jp';
+}
+
+function get_shorte_st($link){
+	return 'http://abc.com.vn.jp';
+}
 ?>

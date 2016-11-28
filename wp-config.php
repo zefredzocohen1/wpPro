@@ -88,3 +88,18 @@ if ( !defined('ABSPATH') )
 /** Sets up WordPress vars and included files. */
 set_time_limit(0);
 require_once(ABSPATH . 'wp-settings.php');
+
+define('DOMAIN', 'http://themesdownload.online.local.vn/');
+/** set config ads */
+$type_ads_api = array(
+	'adf_ly'	=> array(
+		'url'	=> 'http://api.adf.ly/api.php?',
+		'account'	=> array(
+				array(
+					'key' 			=> 'd418dd3c1236b1b0f1f505061ec92543',
+				    'uid' 			=> '9921033',
+				    'domain'		=> DOMAIN
+			    )
+			)
+		)
+	);
