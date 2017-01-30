@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Taqyeem\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-31 17:59+0300\n"
+"PO-Revision-Date: 2014-08-31 18:00+0300\n"
+"Last-Translator: Fouad Badawy <support@tielabs.com>\n"
+"Language-Team: Tielabs <info@tielabs.com>\n"
+"Language: en_EG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../taqyeem-panel.php:24 ../taqyeem-posts.php:85
+msgid "Review Criteria"
+msgstr ""
+
+#: ../taqyeem-panel.php:24 ../taqyeem-posts.php:88
+msgid "Criteria Score"
+msgstr ""
+
+#: ../taqyeem-panel.php:24 ../taqyeem-posts.php:91
+msgid "Delete"
+msgstr ""
+
+#: ../taqyeem-panel.php:126 ../taqyeem-panel.php:127
+msgid "Settings"
+msgstr ""
+
+#: ../taqyeem-panel.php:128
+msgid "Documentation"
+msgstr ""
+
+#: ../taqyeem-panel.php:353
+msgid "Save Settings"
+msgstr ""
+
+#: ../taqyeem-panel.php:369
+msgid "Start"
+msgstr ""
+
+#: ../taqyeem-panel.php:370 ../taqyeem-panel.php:428
+msgid "General Settings"
+msgstr ""
+
+#: ../taqyeem-panel.php:371 ../taqyeem-panel.php:469 ../taqyeem-panel.php:472
+msgid "Styling"
+msgstr ""
+
+#: ../taqyeem-panel.php:372 ../taqyeem-panel.php:554 ../taqyeem-panel.php:588
+msgid "Typography"
+msgstr ""
+
+#: ../taqyeem-panel.php:376 ../taqyeem-panel.php:625
+msgid "Advanced Settings"
+msgstr ""
+
+#: ../taqyeem-panel.php:386
+msgid "Welcome to TAQYEEM!"
+msgstr ""
+
+#: ../taqyeem-panel.php:388
+msgid ""
+"Thank you for purchasing the TAQYEEM plugin, a WordPress plugin by <a href="
+"\"http://tielabs.com/\" target=\"_blank\">TieLabs</a>."
+msgstr ""
+
+#: ../taqyeem-panel.php:391
+msgid "Need Help?"
+msgstr ""
+
+#: ../taqyeem-panel.php:393
+msgid "Plugin Docs"
+msgstr ""
+
+#: ../taqyeem-panel.php:394
+msgid "Support"
+msgstr ""
+
+#: ../taqyeem-panel.php:399
+msgid "Rate Taqyeem"
+msgstr ""
+
+#: ../taqyeem-panel.php:400
+msgid ""
+"If you like Taqyeem, please don’t forget to <a target=\"_blank\" href="
+"\"http://themeforest.net/downloads?ref=tielabs\">rate it</a>"
+msgstr ""
+
+#: ../taqyeem-panel.php:405
+msgid "Taqyeem Add-ons"
+msgstr ""
+
+#: ../taqyeem-panel.php:414
+msgid "GET IT NOW"
+msgstr ""
+
+#: ../taqyeem-panel.php:431
+msgid "Show Review Boxes in the singular pages only ?"
+msgstr ""
+
+#: ../taqyeem-panel.php:434
+msgid "Enable in Single page only ?"
+msgstr ""
+
+#: ../taqyeem-panel.php:438
+msgid ""
+"Enable it if your theme uses ' the_content() ' in homepage and archives "
+"pages and you want to show post review box in the single post page only !"
+msgstr ""
+
+#: ../taqyeem-panel.php:442 ../taqyeem-panel.php:445
+msgid "Who Is Allowed To Rate ?"
+msgstr ""
+
+#: ../taqyeem-panel.php:448
+msgid "No One !"
+msgstr ""
+
+#: ../taqyeem-panel.php:449
+msgid "Registered Users And Guests"
+msgstr ""
+
+#: ../taqyeem-panel.php:450
+msgid "Guests Only"
+msgstr ""
+
+#: ../taqyeem-panel.php:451
+msgid "Registered Users Only"
+msgstr ""
+
+#: ../taqyeem-panel.php:455 ../taqyeem-panel.php:458
+msgid "Ratings Image"
+msgstr ""
+
+#: ../taqyeem-panel.php:475
+msgid "Review Box Outer Border"
+msgstr ""
+
+#: ../taqyeem-panel.php:480
+msgid "Review Box Header & Footer Background"
+msgstr ""
+
+#: ../taqyeem-panel.php:485
+msgid "Review items Background"
+msgstr ""
+
+#: ../taqyeem-panel.php:490
+msgid "Final Score and percentage bar Background"
+msgstr ""
+
+#: ../taqyeem-panel.php:495
+msgid "Links Color"
+msgstr ""
+
+#: ../taqyeem-panel.php:500
+msgid "Links Decoration"
+msgstr ""
+
+#: ../taqyeem-panel.php:510
+msgid "Links Color on mouse over"
+msgstr ""
+
+#: ../taqyeem-panel.php:515
+msgid "Links Decoration on mouse over"
+msgstr ""
+
+#: ../taqyeem-panel.php:529
+msgid "Custom CSS"
+msgstr ""
+
+#: ../taqyeem-panel.php:531
+msgid "Global CSS :"
+msgstr ""
+
+#: ../taqyeem-panel.php:535
+msgid "Tablets CSS :"
+msgstr ""
+
+#: ../taqyeem-panel.php:535
+msgid "Width from 768px to 985px"
+msgstr ""
+
+#: ../taqyeem-panel.php:539
+msgid "Wide Phones CSS :"
+msgstr ""
+
+#: ../taqyeem-panel.php:539
+msgid "Width from 480px to 767px"
+msgstr ""
+
+#: ../taqyeem-panel.php:543
+msgid "Phones CSS :"
+msgstr ""
+
+#: ../taqyeem-panel.php:543
+msgid "Width from 320px to 479px"
+msgstr ""
+
+#: ../taqyeem-panel.php:557
+msgid "Character sets"
+msgstr ""
+
+#: ../taqyeem-panel.php:558
+msgid ""
+"<strong>Tip:</strong> If you choose only the languages that you need, you'll "
+"help prevent slowness on your webpage."
+msgstr ""
+
+#: ../taqyeem-panel.php:561
+msgid "Latin Extended"
+msgstr ""
+
+#: ../taqyeem-panel.php:566
+msgid "Cyrillic"
+msgstr ""
+
+#: ../taqyeem-panel.php:571
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ../taqyeem-panel.php:576
+msgid "Greek"
+msgstr ""
+
+#: ../taqyeem-panel.php:581
+msgid "Greek Extended"
+msgstr ""
+
+#: ../taqyeem-panel.php:591 ../taqyeem-posts.php:57
+msgid "Review Box Title"
+msgstr ""
+
+#: ../taqyeem-panel.php:596
+msgid "Review Items"
+msgstr ""
+
+#: ../taqyeem-panel.php:601 ../taqyeem-posts.php:67
+msgid "Review Summary"
+msgstr ""
+
+#: ../taqyeem-panel.php:606
+msgid "Total Score"
+msgstr ""
+
+#: ../taqyeem-panel.php:611
+msgid "Final opinion Text"
+msgstr ""
+
+#: ../taqyeem-panel.php:616
+msgid "User Rating"
+msgstr ""
+
+#: ../taqyeem-panel.php:632
+msgid "Export"
+msgstr ""
+
+#: ../taqyeem-panel.php:638
+msgid "Import"
+msgstr ""
+
+#: ../taqyeem-panel.php:654
+msgid "All settings will be reset .. Are you sure ?"
+msgstr ""
+
+#: ../taqyeem-panel.php:654
+msgid "Reset Settings"
+msgstr ""
+
+#: ../taqyeem-posts.php:7 ../taqyeem-posts.php:8 ../taqyeem-posts.php:13
+msgid "Review Options"
+msgstr ""
+
+#: ../taqyeem-posts.php:37
+msgid "Review Box Position"
+msgstr ""
+
+#: ../taqyeem-posts.php:40
+msgid "Disable"
+msgstr ""
+
+#: ../taqyeem-posts.php:41
+msgid "Top of the post"
+msgstr ""
+
+#: ../taqyeem-posts.php:42
+msgid "Bottom of the post"
+msgstr ""
+
+#: ../taqyeem-posts.php:43
+msgid "Custom position"
+msgstr ""
+
+#: ../taqyeem-posts.php:46
+#, php-format
+msgid ""
+"Use <strong>[taq_review]</strong> shortcode to place the review box in any "
+"place within post content or use <strong> %s </strong> Widget ."
+msgstr ""
+
+#: ../taqyeem-posts.php:51
+msgid "Review Style"
+msgstr ""
+
+#: ../taqyeem-posts.php:54
+msgid "Image"
+msgstr ""
+
+#: ../taqyeem-posts.php:54
+msgid "Percentage"
+msgstr ""
+
+#: ../taqyeem-posts.php:54
+msgid "Points"
+msgstr ""
+
+#: ../taqyeem-posts.php:62
+msgid "Text appears under the total score"
+msgstr ""
+
+#: ../taqyeem-posts.php:74
+msgid "Add New Review Criteria"
+msgstr ""
+
+#: ../taqyeem-widgets.php:42
+msgid "Review Overview"
+msgstr ""
+
+#: ../taqyeem-widgets.php:44
+msgid "This Widget appears in single post only ."
+msgstr ""
+
+#: ../taqyeem-widgets.php:47 ../taqyeem-widgets.php:117
+#: ../taqyeem-widgets.php:214
+msgid "Title : "
+msgstr ""
+
+#: ../taqyeem-widgets.php:105 ../taqyeem-widgets.php:138
+#: ../taqyeem-widgets.php:204 ../taqyeem-widgets.php:235
+msgid "Best Reviews"
+msgstr ""
+
+#: ../taqyeem-widgets.php:121 ../taqyeem-widgets.php:218
+msgid "Number of posts to show :"
+msgstr ""
+
+#: ../taqyeem-widgets.php:126
+msgid "Categories :"
+msgstr ""
+
+#: ../taqyeem-widgets.php:134 ../taqyeem-widgets.php:231
+msgid "Posts Order :"
+msgstr ""
+
+#: ../taqyeem-widgets.php:136 ../taqyeem-widgets.php:233
+msgid "Recent Reviews"
+msgstr ""
+
+#: ../taqyeem-widgets.php:137 ../taqyeem-widgets.php:234
+msgid "Random Reviews"
+msgstr ""
+
+#: ../taqyeem-widgets.php:143 ../taqyeem-widgets.php:240
+msgid "Display Thumbinals"
+msgstr ""
+
+#: ../taqyeem-widgets.php:146 ../taqyeem-widgets.php:243
+msgid "Thumbinals Size :"
+msgstr ""
+
+#: ../taqyeem-widgets.php:223
+msgid "Post Types :"
+msgstr ""
+
+#: ../taqyeem.php:300
+msgid "No Ratings Yet !"
+msgstr ""
+
+#: ../taqyeem.php:304
+msgid "Be the first one !"
+msgstr ""
+
+#: ../taqyeem.php:324 ../taqyeem.php:330 ../taqyeem.php:536
+msgid "Your Rating:"
+msgstr ""
+
+#: ../taqyeem.php:324 ../taqyeem.php:330 ../taqyeem.php:337
+msgid "votes"
+msgstr ""
+
+#: ../taqyeem.php:335 ../taqyeem.php:337
+msgid "User Rating:"
+msgstr ""
+
+#: ../taqyeem.php:398 ../taqyeem.php:433
+msgid "No Posts"
+msgstr ""

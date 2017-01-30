@@ -1,0 +1,68 @@
+*** InstaNOW Changelog ***
+-------------------------------------------------------------------------
+
+Version 2.0.0 - 09-12-2015
+- Renames plugin from “Instagramy” to “InstaNOW”.
+- NEW FEATURE: New Easier way to authorize your account with Instagram. 
+- NEW FEATURE: Load More feature for the Grid Layout.
+- NEW FEATURE: Ability to show more than 20 Images.
+- NEW FEATURE: Flat Images option.
+- NEW FEATURE: Compatibility with the Visual Composer plugin.
+- Improved: Ability to set the cache time for 1 hour.
+- Improved: Compatibility with the new Instagram API.
+- Improved: iLightBox library code.
+- And other improvements and minor bug fixes.
+
+To Update: Remove the old Instagramy plugin folder and Upload the new InstaNOW folder.
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.2 - 15-09-2015
+- Fixed: Showing wrong account info and media bug.
+
+Files updated
+- instagramy.php
+- assets/style.css
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.1 - 23-08-2015
+- Updated: The plugin is now WordPress 4.3 ready.
+
+Files updated
+- instagramy.php
+- instagramy-admin.php
+- assets/style.css
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.0 - 09-07-2015
+- NEW FEATURE: Hashtag support.
+- NEW FEATURE: Activate links of accounts and hashtags in the user bio section.
+- NEW FEATURE: Activate links of accounts and hashtags in the post caption.
+- Improved: Plugin Speed and performance by reducing the amount of data stored and fetched from the database by 90%.
+- Updated : The Plugin’s documentations .
+- Fixed: Set custom cache time bug.
+
+
+-------------------------------------------------------------------------
+
+Version 1.0.2 - 27-01-2015
+- Improved: Plugin Speed by removing @import from the main style.css file .
+
+
+-------------------------------------------------------------------------
+
+Version 1.0.1 - 09-12-2014
+- Improved: Plugin Speed by combining all Js files in one file .
+- Fixed: Documentation URL in the backend .
+
+
+-------------------------------------------------------------------------
+
+
+Version 1.0.0
+- First release

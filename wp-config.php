@@ -20,7 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wordpress');
+define('DB_NAME', 'wp_ad_theme');
 
 /** MySQL database username */
 define('DB_USER', 'homestead');
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'c~`C3R XATU+V5<U[6+&g;J|g&42Ia4WX;2)GDXPnUZ{UF&l@~GE8W5`,&X(rhvF');
-define('SECURE_AUTH_KEY',  'E?8}J$B^T4,B-x;$R9ruN kL]vc/uY%rEwZyFzMgm^BtYvb%J}3I,WQjCtmU<AH=');
-define('LOGGED_IN_KEY',    '_#86P|js+27S[N^!W)K.X^5MO=z*i*H?}G%5jMiZl0Yd>=K/b&dT-59p5b0WjS.f');
-define('NONCE_KEY',        'm4a60xQU`JM+;wsi6&:&|wtzUkU8@h6/mJsBeEARptUAa.Cgu{/9A:f#:9$UCXNF');
-define('AUTH_SALT',        '|a sTlseY@pR..+:Zvyqg-T`8u6G]U?5kk,!37]14)NoU#>)u-`ztPH~?~D}CRd$');
-define('SECURE_AUTH_SALT', 'N{A8f|;FGNj1Sj<EXnG[k>e b/L>:jc[-zSG8wLD#_d=^H,d-M-X?E!u+Buupq00');
-define('LOGGED_IN_SALT',   'G3Dlt6H|Meyrh`VGDb]jlIsYVJt6mWVkjgaI|&~cpZyqWvi*o{3iFpqS[|u,kJ>:');
-define('NONCE_SALT',       '#?FbhrB<G.&PAvC2Dw~}dLZ~N.=/86Y,NX<`]#,J?gVJaSj>$m-Y:{Tgj(t%A.Hm');
+define('AUTH_KEY',         'osj0DR/:0ruq1JH(e_;f;c%e$/`ovX%j}f^q,}0[EnIh2#bAsGcc0~;(p&WWJvmy');
+define('SECURE_AUTH_KEY',  'zo4dD*4=EY~mWve#pOMFu<.W1Vdq(*[Gu0%dsLZ/^Y5y(18DmN#I[>r?50oZ,M0F');
+define('LOGGED_IN_KEY',    'jt7~(v# =}Ui.wJG-fCAugB%c68o0Kz[bT|hoSE#JOgv,{Jd(V/Q=<;K (ghZDt!');
+define('NONCE_KEY',        'OAw.+t{9cLz#-~p<wo>kB6k#nIy>lkf%bu()`@4!%pM[4G`^2IihKde{RR}TF+-G');
+define('AUTH_SALT',        '7 1yu~m;](&_GLP4>uqN^n]hc,82%,0H&1]Nya+G<JZ:kBMDo9/]WU8]s#V*JL/-');
+define('SECURE_AUTH_SALT', '](W^*64<x{F!=>99f}GeMVe;~r?~07`AEbaBo-j_x$I^EN}bz8i,^2:*aG6R#/-,');
+define('LOGGED_IN_SALT',   '?[mp;ETGXeYX5=C#znUNNV/wsn,?W<XsDf@DuKKioW_Y]9aQ>enGvdLT9*P%.rGl');
+define('NONCE_SALT',       'G}klk~AO%FcpI-sizM8wpMtBl,:-q^TKPO,L[v4 3S{4Y/,,p%b0&Pm:}Ow30Sr?');
 
 /**#@-*/
 
@@ -63,7 +63,7 @@ define('NONCE_SALT',       '#?FbhrB<G.&PAvC2Dw~}dLZ~N.=/86Y,NX<`]#,J?gVJaSj>$m-Y
  * You can have multiple installations in one database if you give each
  * a unique prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix  = 'adscr_';
+$table_prefix  = 'h2h_';
 
 /**
  * For developers: WordPress debugging mode.
@@ -86,20 +86,4 @@ if ( !defined('ABSPATH') )
 	define('ABSPATH', dirname(__FILE__) . '/');
 
 /** Sets up WordPress vars and included files. */
-set_time_limit(0);
 require_once(ABSPATH . 'wp-settings.php');
-
-define('DOMAIN', 'http://themesdownload.online.local.vn/');
-/** set config ads */
-$type_ads_api = array(
-	'adf_ly'	=> array(
-		'url'	=> 'http://api.adf.ly/api.php?',
-		'account'	=> array(
-				array(
-					'key' 			=> 'd418dd3c1236b1b0f1f505061ec92543',
-				    'uid' 			=> '9921033',
-				    'domain'		=> DOMAIN
-			    )
-			)
-		)
-	);

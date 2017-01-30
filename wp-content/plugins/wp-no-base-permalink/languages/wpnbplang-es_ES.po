@@ -1,0 +1,424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wabe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-16 09:59+0100\n"
+"PO-Revision-Date: 2015-11-16 10:06+0100\n"
+"Last-Translator: 23r9i0 <23r9i0@gmail.com>\n"
+"Language-Team: 23r9i0\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.8.6\n"
+
+#: wp-no-base-permalink.php:114
+msgid "Settings"
+msgstr "Opciones"
+
+#: wp-no-base-permalink.php:125
+msgid "Donate"
+msgstr "Donar"
+
+#: wp-no-base-permalink.php:313
+msgid "WP No Base Permalink"
+msgstr "WP No Base Permalink"
+
+#: wp-no-base-permalink.php:318
+msgid "Disabled Category Base"
+msgstr "Deshabilitar Categoría Base"
+
+#: wp-no-base-permalink.php:324
+msgid "Categories Base"
+msgstr "Categorías Base "
+
+#: wp-no-base-permalink.php:330
+msgid "Remove Parents Categories"
+msgstr "Eliminar categorías padres"
+
+#: wp-no-base-permalink.php:336
+msgid "Disabled Tag Base"
+msgstr "Deshabilitar etiqueta base"
+
+#: wp-no-base-permalink.php:342
+msgid "Tags Base"
+msgstr "Etiquetas Base"
+
+#: wp-no-base-permalink.php:358
+msgid "Remove Category Base of the permalinks"
+msgstr "Elimina Categoría Base de los enlaces permanentes"
+
+#: wp-no-base-permalink.php:365
+msgid ""
+"Redirect old categories base, by default add the <code>'category'</code> "
+"base. For other categories base separated by <code>, </code>."
+msgstr ""
+"Redirigir antiguas categorías base, por defecto añade la <code> 'categoría' "
+"</code> base. Para otras categorías base separarlas por <code>, </code>."
+
+#: wp-no-base-permalink.php:372
+msgid ""
+"Remove parents categories of the permalinks leaving a cleanest permalink, in "
+"my modest opinion."
+msgstr ""
+"Elimina categorías padres de los enlaces permanentes dejando un enlace "
+"permanente más limpio, en mi modesta opinión."
+
+#: wp-no-base-permalink.php:379
+msgid "Remove Tag Base of the permalinks."
+msgstr "Elimina Etiqueta Base de los enlaces permanentes (permalinks)"
+
+#: wp-no-base-permalink.php:386
+msgid ""
+"Redirect tag base, by default add the <code>'tag'</code> base. For other tag "
+"base separated by <code>, </code>."
+msgstr ""
+"Redirigir antiguas etiquetas base, por defecto añade la <code> 'tag' </code> "
+"base. Para otras categorías base separarlas por <code>, </code>."
+
+#~ msgid "Options for plugin WP No Base Permalink"
+#~ msgstr "Opciones del plugin WP No Base Permalink"
+
+#~ msgid "Oldest Categories Base"
+#~ msgstr "Antiguas categorías base"
+
+#~ msgid "Optional"
+#~ msgstr "Opcional"
+
+#~ msgid "Oldest Tags Base"
+#~ msgstr "Antiguas etiquetas base"
+
+#~ msgid ""
+#~ "The Oldest Categories Base and Oldest Tags Base option are to customize "
+#~ "the redirect old permalinks either with the default <code>'category'</"
+#~ "code>, <code>'tag'</code> or some customized. The Remove Parents "
+#~ "Categories option is to remove parents categories of the permalinks "
+#~ "leaving a cleanest permalink, in my modest opinion."
+#~ msgstr ""
+#~ "La opcion Antiguas categorías base y la Antiguas etiquetas base son para "
+#~ "redireccionar los antiguos enlaces permanentes (permalinks) ya sea con el "
+#~ "predeterminado <code>'category'</code>, <code>'tag'</code> o uno "
+#~ "personalizado. La opcion Eliminar categorías padres es para eliminar del "
+#~ "enlace permanente (permalink) las categorías padres dejando un enlace mas "
+#~ "limpio, en mi modesta opinion."
+
+#~ msgid ""
+#~ "Redirect in oldest categories base, by default <code>'category'</code>. "
+#~ "For more oldest categories base separated by <code>, </code>."
+#~ msgstr ""
+#~ "Redireccionar las antiguas categorías base, por defecto <code>'category'</"
+#~ "code>. Para más antiguas categorías base separarlas con <code>, </code>."
+
+#~ msgid "Activated by default."
+#~ msgstr "Activado por defecto."
+
+#~ msgid ""
+#~ "Redirect in old tag base, by default <code>'tag'</code>. For more oldest "
+#~ "tag base separated by <code>, </code>."
+#~ msgstr ""
+#~ "Redireccionar las antiguas etiquetas base, por defecto <code>'tag'</"
+#~ "code>. Para más antiguas etiquetas base separarlas con <code>, </code>."
+
+#~ msgid "Deactivated by default."
+#~ msgstr "Desactivado por defecto."
+
+#~ msgid "This plugin requires WordPress 3.5 or greater."
+#~ msgstr "El plugin necesita WordPress 3.5 o posterior."
+
+#~ msgid "Active link:"
+#~ msgstr "Activar enlace:"
+
+#~ msgid "Define target link:"
+#~ msgstr "Definir target del enlace:"
+
+#~ msgid "Custom Icon to link:"
+#~ msgstr "Icono personalizado para el enlace:"
+
+#~ msgid "Speed:"
+#~ msgstr "Velocidad:"
+
+#~ msgid "<strong>Advanced Settings</strong>"
+#~ msgstr "<strong>Opciones avanzadas</strong>"
+
+#~ msgid "Sensitivity:"
+#~ msgstr "Sensibilidad:"
+
+#~ msgid "Interval:"
+#~ msgstr "Intervalo:"
+
+#~ msgid "Timeout:"
+#~ msgstr "Tiempo de espera:"
+
+#~ msgid "Default icon restored."
+#~ msgstr "Icono predeterminado restaurado."
+
+#~ msgid "Add Link and Separator"
+#~ msgstr "Añadir enlace y separador"
+
+#~ msgid "Add only Link"
+#~ msgstr "Añadir solo enlace"
+
+#~ msgid "Update icon"
+#~ msgstr "Subir icono"
+
+#~ msgid "Restore icon"
+#~ msgstr "Restablecer icono"
+
+#~ msgid "Default: "
+#~ msgstr "Por defecto: "
+
+#~ msgid "Current: "
+#~ msgstr "Actual: "
+
+#~ msgid "Default: 3000"
+#~ msgstr "Por defecto: 3000"
+
+#~ msgid "Default: 4"
+#~ msgstr "Por defecto: 4"
+
+#~ msgid "Default: 50"
+#~ msgstr "Por defecto: 50"
+
+#~ msgid "Default: 200"
+#~ msgstr "Por defecto: 200"
+
+#~ msgid "Upload or Choose Your Icon File"
+#~ msgstr "Subir o seleccionar su archivo de icono"
+
+#~ msgid "Insert Icon"
+#~ msgstr "Insertar icono"
+
+#~ msgid "WP Admin Bar Effect (wabe) Version: %s"
+#~ msgstr "WP Admin Bar Effect (wabe) Versión: %s"
+
+#~ msgid "Enable javascript to work plugin options!!!"
+#~ msgstr "Activar javascript para usar todas las opciones del plugin!!!"
+
+#~ msgid "General options"
+#~ msgstr "Opciones generales"
+
+#~ msgid "Advanced options"
+#~ msgstr "Opciones avanzadas"
+
+#~ msgid "Active link"
+#~ msgstr "Activar enlace"
+
+#~ msgid "Decide if it shows a link in the sidebar to your site."
+#~ msgstr "Decide si se muestra en la barra lateral un enlace hacia su sitio."
+
+#~ msgid ""
+#~ "Add Link and Separator decide if it shows a separator after link or Add "
+#~ "only Link show link without separator"
+#~ msgstr ""
+#~ "Añadir enlace y separador decide si quiere mostrar un separador despues "
+#~ "del enlace o añadir solo enlace  sin separador"
+
+#~ msgid "Define target link"
+#~ msgstr "Definir target del enlace"
+
+#~ msgid "Define target _blank or none. Default _blank"
+#~ msgstr "Definir target _blank o no. Por defecto _blank"
+
+#~ msgid "Custom icon to link"
+#~ msgstr "Icono personalizado para el enlace"
+
+#~ msgid ""
+#~ "Add custom icon on the link, is stored in the folder uploads if not using "
+#~ "from url. "
+#~ msgstr ""
+#~ "Añade icono personalizado en el enlace. se guarda en la carpeta uploads "
+#~ "sino usa desde url."
+
+#~ msgid "The image can not be greater than 16 by 16 pixels"
+#~ msgstr "La imagen no puede exceder de 16 por 16 pixeles"
+
+#~ msgid "Speed"
+#~ msgstr "Velocidad"
+
+#~ msgid "Speed ​​is the option to change the speed of effect once the hover."
+#~ msgstr ""
+#~ "La velocidad, es la opción para cambiar la velocidad del efecto una vez "
+#~ "que se activa al pasar el ratón."
+
+#~ msgid "Sensitivity"
+#~ msgstr "Sensibilidad"
+
+#~ msgid ""
+#~ "If the mouse travels fewer than this number of pixels between polling "
+#~ "intervals, then the \"over\" function will be called. With the minimum "
+#~ "sensitivity threshold of 1, the mouse must not move between polling "
+#~ "intervals. With higher sensitivity thresholds you are more likely to "
+#~ "receive a false positive."
+#~ msgstr ""
+#~ "Si el ratón viaja menos de este número de píxeles entre los intervalos de "
+#~ "sondeo, el \"sobre\" la función se llama. Con el umbral de sensibilidad "
+#~ "mínima de 1, el ratón no se debe mover entre los intervalos de votación. "
+#~ "Con los umbrales de sensibilidad más alto tienen más probabilidades de "
+#~ "recibir un falso positivo"
+
+#~ msgid "Interval"
+#~ msgstr "Intervalo"
+
+#~ msgid ""
+#~ "The number of milliseconds hoverIntent waits between reading/comparing "
+#~ "mouse coordinates. When the user's mouse first enters the element its "
+#~ "coordinates are recorded. The soonest the \"over\" function can be called "
+#~ "is after a single polling interval. Setting the polling interval higher "
+#~ "will increase the delay before the first possible \"over\" call, but also "
+#~ "increases the time to the next point of comparison."
+#~ msgstr ""
+#~ "El número de milisegundos que hoverIntent espera entre la lectura/"
+#~ "comparación de las coordenadas del ratón. Cuando el ratón del usuario "
+#~ "entra por primera vez el elemento de sus coordenadas se registran. Lo más "
+#~ "pronto que puede ser el \"sobre\" la función se llama después de un "
+#~ "intervalo de sondeo única. Ajuste del intervalo de sondeo más alta "
+#~ "aumentará la demora antes de la primera posible \"sobre\" llamar, pero "
+#~ "también aumenta el tiempo hasta el siguiente punto de comparación "
+#~ "intervalo."
+
+#~ msgid "Timeout"
+#~ msgstr "Tiempo de espera"
+
+#~ msgid ""
+#~ "A simple delay, in milliseconds, before the \"out\" function is called. "
+#~ "If the user mouses back over the element before the timeout has expired "
+#~ "the \"out\" function will not be called (nor will the \"over\" function "
+#~ "be called). This is primarily to protect against sloppy/human mousing "
+#~ "trajectories that temporarily (and unintentionally) take the user off of "
+#~ "the target element... giving them time to return."
+#~ msgstr ""
+#~ "Un simple retraso, en milisegundos, antes de que el \"fuera\" la función "
+#~ "se llama. Si el usuario pasa el ratón por encima del elemento antes de "
+#~ "que el tiempo de espera ha expirado el \"fuera\" la función no será "
+#~ "llamada (ni el \"sobre\" la función se llama). Esto se debe "
+#~ "principalmente a la protección contra las trayectorias pasar el ratón por "
+#~ "descuidado/humanos que temporalmente (y no) llevan al usuario fuera del "
+#~ "elemento de destino ...  Dándoles tiempo para volver."
+
+#~ msgid "Default options restored."
+#~ msgstr "Opciones predeterminadas restauradas."
+
+#~ msgid "Restore"
+#~ msgstr "Restablecer"
+
+#~ msgid ""
+#~ "If you want to completely remove the image should delete from the library."
+#~ msgstr ""
+#~ "Para eliminar completamente la imagen tiene que hacerlo desde la librería "
+#~ "multimedia."
+
+#~ msgid ""
+#~ "Are you sure you want to restore WP Admin Bar Effect (wabe) to default "
+#~ "settings?"
+#~ msgstr ""
+#~ "¿Esta seguro de que desea restaurar WP Admin Bar Effect (wabe) a los "
+#~ "ajustes predeterminados?"
+
+#~ msgid "More explanation of options in the help tab"
+#~ msgstr "Mas explicacion de las opciones en la pestaña de ayuda"
+
+#~ msgid "This plugin requires PHP 5 or greater."
+#~ msgstr "El plugin necesita PHP 5 o posterior."
+
+#~ msgid "HoverIntent options"
+#~ msgstr "Opciones del HoverIntent"
+
+#~ msgid "Uninstall option"
+#~ msgstr "Opcion de desinstalar"
+
+#~ msgid "Uninstall"
+#~ msgstr "Desinstalar"
+
+#~ msgid ""
+#~ "Like many other plugins, WP Admin Bar Effect (wabe) stores its settings "
+#~ "on your WordPress options database table. Actually, these settings are "
+#~ "not using more than a couple of kilobytes of space, but if you want to "
+#~ "completely uninstall this plugin, check the option below, then save "
+#~ "changes, and <strong>when you deactivate the plugin</strong>, all its "
+#~ "settings will be removed from the database."
+#~ msgstr ""
+#~ "Al igual que muchos otros plugins, WP Admin Bar Effect (wabe) almacena la "
+#~ "configuración de sus opciones en la base de datos de tu WordPress. En "
+#~ "realidad, estos ajustes no utilizan más de un par de kilobytes de "
+#~ "espacio, pero si quieres desinstalar por completo este plugin, seleccione "
+#~ "la opción desinstalar,  guarde los cambios, y <strong> al desactivar el "
+#~ "plugin</strong>, todos su datos de configuración se eliminará de la base "
+#~ "de datos."
+
+#~ msgid "%1$s Go to %2$s%3$s"
+#~ msgstr "%1$s Ir a %2$s%3$s"
+
+#~ msgid "%1$sWP Admin Bar Effect (wabe) settings have been reset.%2$s"
+#~ msgstr "%1$sOpciones de WP Admin Bar Effect (wabe) restauradas.%2$s"
+
+#~ msgid "%1$s Uninstall WP Admin Bar Effect (wabe) %2$s"
+#~ msgstr "%1$s Desintalar WP Admin Bar Effect (wabe) %2$s"
+
+#~ msgid "Info"
+#~ msgstr "Info"
+
+#~ msgid "Active link to site:"
+#~ msgstr "Activar enlace del sitio:"
+
+#~ msgid "Default: on <small>(Checked)</small>"
+#~ msgstr "Por defecto: on <small>(Seleccionado)</small>"
+
+#~ msgid "Change the Speed:"
+#~ msgstr "Cambiar la velocidad:"
+
+#~ msgid "Change the Sensitivity:"
+#~ msgstr "Cambiar la sensibilidad:"
+
+#~ msgid "Change the Interval:"
+#~ msgstr "Cambiar el intervalo:"
+
+#~ msgid "Change the Timeout:"
+#~ msgstr "Cambiar el tiempo de espera:"
+
+#~ msgid ""
+#~ "Delete options within the database to disable the plugin in the plugins "
+#~ "page"
+#~ msgstr ""
+#~ "Elimina las opciones guardadas en la base de datos para desactivar el "
+#~ "plugin desde la página de plugins"
+
+#~ msgid "Default: off <small>(UnChecked)</small>"
+#~ msgstr "Por defecto: off <small>(Deseleccionado)</small>"
+
+#~ msgid "You need some help active help tab."
+#~ msgstr "Si necesitas mas ayuda activa la pestaña de la ayuda."
+
+#~ msgid "Sorry for bugs in translations."
+#~ msgstr "Perdón por los errores en las traducciones."
+
+#~ msgid ""
+#~ "To help in the translation send an email to 23r9i0<span class=\"hidden"
+#~ "\">no-bot</span>@gmail.com"
+#~ msgstr ""
+#~ "Para ayudar en la traduccion puede mandar un email a 23r9i0<span class="
+#~ "\"hidden\">no-bot</span>@gmail.com"
+
+#~ msgid "Save Changes"
+#~ msgstr "Guardar cambios"
+
+#~ msgid "%1$s Uninstall %2$s"
+#~ msgstr "%1$s Desinstalar %2$s"
+
+#~ msgid "Help"
+#~ msgstr "Ayuda"
+
+#~ msgid "The following options are for configuring the hoverIntent."
+#~ msgstr "Las siguientes opciones son para configurar el hoverIntent."
+
+#~ msgid ""
+#~ "<a class=\"menu-top\" href=\"%1$s\" title=\"Go to %2$s\" rel=\"bookmark"
+#~ "\"><span id=\"wabe-icon\">%3$s</span></a>"
+#~ msgstr ""
+#~ "<a class=\"menu-top\" href=\"%1$s\" title=\"Ir a %2$s\" rel=\"bookmark"
+#~ "\"><span id=\"wabe-icon\">%3$s</span></a>"
+
+#~ msgid "About"
+#~ msgstr "Acerca de"
